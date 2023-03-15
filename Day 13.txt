@@ -3,6 +3,7 @@ Change verbs to noun 'koto'
 nomu(verb) -> nomu koto(noun)
 taberu(verb) -> taberu koto(noun)
 ryokou(verb) -> ryoukou suru koto(noun)
+yomu(verb) -> yomu koto(noun)
 
 
 Conversation 1:
