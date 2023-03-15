@@ -1,0 +1,59 @@
+
+8.5 ji ni shigoto hajimarimasu
+
+5.5 ji ni owarimasu
+
+11 ji goro nemasu 
+
+6 ji ni okimasu
+
+12 ji ni nemasu
+
+6.5 goro ni okimasu
+
+Time 'ji' hour
+
+1. ichi ji
+2. ni ji
+3. san ji
+4. yo ji
+5. go ji
+6. roku ji
+7. sichi ji
+8. hachi ji
+9. ku ji
+10. juu ji
+11. juu ichi ji
+12. juu ni ji
+
+minutes 'pun/fun' 
+
+5 = go fun
+10 = juu pun*
+15 = juu go fun
+20. nijuu pun*
+25 = nijuu go fun
+30 = sanjuu pun*
+35 = sanjuu go fun
+40 = yonjuu pun*
+45 = yonjuu go fun
+50 = gojuu pun*
+55 = gojuu go fun
+
+How many do it 'kai'
+
+1. ikkai*
+2. nikai
+3. sankai
+4. yonkai
+5. gokai
+6. rokkai*
+7. nanakai
+8. hakkai*
+9. kyuukai
+10. jyuukai
+
+
+ryouri suru = ryouri simasu
+sentaku suru = sentaku simasu
+souji suru = souji simasu

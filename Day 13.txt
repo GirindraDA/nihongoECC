@@ -1,0 +1,82 @@
+Change verbs to noun 'koto'
+
+nomu(verb) -> nomu koto(noun)
+taberu(verb) -> taberu koto(noun)
+ryokou(verb) -> ryoukou suru koto(noun)
+
+
+Conversation 1:
+
+1.
+shuumi wa nan desuka?
+
+= sakka o suru koto desu
+
+doko de simasuka?
+
+= suptotsusenta de simasu
+
+2.
+shuumi wa nan desuka?
+
+= ceki o taberu koto desu
+
+doko de tabemasuka?
+
+= kafe de tabemasu
+
+3.
+shuumi wa nandesuka?
+
+= hon wo yomu koto desu
+
+itsu yomimasuka?
+
+= hiru yasumi ni yomimasu
+
+4.
+shuumi wa nan desuka?
+
+= e wo kaku koto desu
+
+itsu kakimasuka?
+
+= shuumatsu ni kakimasu
+
+Conversation 2:
+
+1. 
+Shuumi wa nan desuka?
+
+= hon o yomu koto desu
+
+donna hon ga suki desuka?
+
+= suiri syousetsu ga suki desu
+
+2.
+Shuumi wa nan desuka?
+
+= ongaku o kiku koto desu
+
+donna ongaku ga suki desu ka?
+
+= j-pop ga suki desu
+
+3.
+Shuumi wa nan desuka?
+                                            
+= sports o suru koto desu
+
+donna sports ga suki desuka?
+
+= tenisu ga suki desu
+
+4.
+Shuumi wa nan desuka?
+
+= eiga o miru koto desu
+
+donna eiga ga suki desuka?
+
+= komedi eiga ga suki desu
