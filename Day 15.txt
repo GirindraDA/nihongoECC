@@ -1,0 +1,186 @@
+Vocabulary :
+
+nihon
+eigo
+chuugoku go
+kanji
+kankoku ryori
+firipin ryouri
+gyoza
+dansu, dansu suru
+jyasu dansu
+karaoke, karaoke wo suru
+aburae
+uta wo utau
+unten, unten suru
+meiku =>make up
+meiku suru 
+sukii => ski
+suko wo suru
+takyuu => tenis meja
+takyuu wo suru
+pasokon
+pasokon wo tsukau
+irasuto => illustrasi
+irasuto wo kaku
+gitaa, gitaa wo hiku
+tsukau
+dekiru
+tokui
+hoka ni
+
+For 'Noun'
++ eigo ga dekimasu
+
+- eigo ga dekimasen
+
+? eigo ga dekimasuka
+=o hai, dekimasu
+=x iie, dekimasen
+
+For 'Verbs'
++ watshi wa piano wo hiku koto ga dekimasu
+
+- watashi wa piano wo hiku koto ga dekimasen
+
+? piano wo hiku goto ga dekimasuka?
+=o hai, dekimasu
+=x iie, dekimasen
+
+Conversation 1:
+
+1.
+eigo ga dekimasuka
+
+= hai, dekimasu
+
+piano wo hiku koto ga dekimasuka?
+
+= iie, dekimasen
+
+2.
+chuugoku go ga dekimasuka
+
+= iie, dekimasen
+
+pasokon wo tsukau koto ga dekimasuka?
+
+= hai, dekimasu
+
+3.
+oyogu koto ga dekimasuka
+
+= hai, dekimasu
+
+daibingu ga dekimasuka
+
+= iie, dekimasen
+
+4.
+nihongo no uta o utau koto ga dekimasuka
+
+= iie, dekimasen
+
+dansu ga dekimasuka
+
+= hai, dekimasu
+
+
+For 'noun'
++ (watshi wa) ryori ga tokui desu
+
+- (watashi wa) ryori ga tokui jyanaidesu
+
+? nani ga tokui desuka
+
+  donna ryori ga tokui desuka
+  = nihon ryori ga tokui desu	
+
+
+For 'verbs'
++ uta wo utau koto ga tokui desu
+
+- uta wo utau koto ga tokui jyanai desu
+
+? uta wo utau koto ga tokui desuka
+
+? nani ga tokui desuka
+=o uta wo utau koto ga tokui desu
+
+? donna uta wo utau koto ga tokui desuka
+=o j-pop wo utau koto ga tokui desu
+
+
+Conversation 2:
+
+1.
+nani ga tokui desuka?
+
+= uta wo utau koto ga tokui desu
+
+? donna uta wo utau koto ga tokui desuka
+
+= j-pop wo utau koto ga tokui desu
+
+2.
+nani ga tokui desuka?
+
+= e wo kaku koto ga tokui desu
+
+? donna e wo kaku koto ga tokui desuka
+
+= aburae ga tokui desu
+
+3.
+nani ga tokui desuka?
+
+= ryori ga tokui desu
+
+? donna ryouri ga tokui desuka
+
+= kankoku ryouri ga tokui desu
+
+4.
+nani ga tokui desuka?
+
+= dansu ga tokui desu
+
+? donna dansu ga tokui desuka
+
+= jyasu dansu ga tokui desu
+
+
+Use 'hoka ni' if topic 1 and 2 have different topic
+
+"jyaa, hoka ni nani ga tokui desuka?"
+
+
+Conversation 3:
+
+maria :maria desu. yoroshiku onegaishimasu
+
+syokuhin :maria san. kochirakoso, yoroshiku onegaishimasu. maria san wa eigo ga dekimasuka.
+
+maria :hai dekimasu.
+
+syokuhin :sorekara, ryori ga dekimasuka
+
+maria :hai, dekimasu. ryori ga tokui desu
+
+syokuhin :donna ryori ga tokui desuka
+
+maria :adobo ga tokui desu. firipin ryouri desu.
+
+syokuhin :sou desuka ii desune. hoka ni nani wo suru koto ga dekimasuka
+
+maria :e wo kaku koto ga dekimasu. sorekara gitaa o hiku koto ga dekimasu
+
+syokuhin :donna e wo kaku koto ga dekimasuka
+
+maria :irasuto wo kaku koto ga dekimasu
+
+syokuhin :wakarimasita
+
+
+"watashi wa giri desu. indonesia kara kimasita. eigo ga dekimasu. e wo kaku koto ga dekimasu. sorekara, bike wo unten suru koto ga tokui desu. ato souji suru koto ga tokui desu. yoroshiku onegai shimasu."
+     
