@@ -1,0 +1,170 @@
+Vocabulary:
+      
+biru = building
+eki biru
+simin hooru = community center
+hiroba = 
+syasinten
+baagen = bargain
+omatsuri
+fesu / fesutibaru
+consaato = concert
+furiimaaketto = free market
+ibento = event
+neko
+youji
+youji ga aru
+machi awaseru
+isshoni
+zehi
+
+Kikimashou / Listening:
+hai, suki desu
+
+ginza 
+
+hai, ikimashou
+
+juu go nichi kara ju hachi nichi made desu
+
+juu go nichi wa youji ga arimasu
+
+ju shichi nichi ni ikimasu 
+
+Grammer:
++ ginza tsukaisinema DE tokyo film festival GA arimasu.
+
+? tokyo film festival wa itsu desuka
+
+nomimasu -> nomimashou
+tabemasu -> tabemashou
+simasu -> simashou
+ikimasu -> ikimashou
+
+? 15 nichi wa DOU desuka
+=O hai, ii desu yo
+=x sumimasen. 15 nichi wa youji ga arimasu
+
+Conversation 1:
+1.
+A: ginza sukai sinema de tokyo film festibaru ga arimasu. isshoni ikimasenka?
+B: hai, ikimashou. itsu desuka?
+A: 15 nichi kara 18 nichi made desu. 15 nichi wa dou desuka?
+B: sumimasen, 15 nichi wa youji ga arimasu. 17 nichi wa dou desuka?
+A: hai, ii desu yo. tanoshimi ni site imasu.
+
+2.
+A: simin hori de neko no syashinten ga arimasu. ishhoni ikimasenka?
+B: hai, ikimashou. itsu desuka?
+A: 5ka kara 10ka made desu. 8ka wa dou desuka?
+B: sumimasen. 8ka wa youji ga arimasu. 6ka dou desuka?
+A: hai, ii desuyo. tanoshimi ni site imasu. 
+
+3.
+A: ikeyama depaato de baagen ga arimasu. ishhoni ikimasenka?
+B: hai, ikimashou. itsu desuka?
+A: 6ka kara 12nichi made desu. 6ka wa dou desuka?
+B: sumimasen. 6ka wa youji ga arimasu. 7ka wa dou desuka?
+A: hai, ii desuyo. tanoshimi ni site imasu.
+
+4.
+A: hanayagi koen de ramen fesu ga arimasu. isshoni ikimasenka?
+B: hai, ikimashou. itsu desuka?
+A: 23nichi kara 26nichi made desu. 25nichi wa dou desuka?
+B: sumimasen. 25nichi wa youji ga arimasu. 24ka(ni ju yokka) wa dou desuka?
+A: hai, ii desuyo. tanoshimi ni site imasu
+
++ wandaa touwn ha 1ji han kara desu
+? wandaa touwn ha nan ji kara desuka
+
+Question about 'place'
+
+? doko de machi awasemasu ka
++ eigakan no mae de machi awasemashou
+ jyaa, 1ji ni eigakan no mae desune
+
+Question about 'time'
+
+? nan ji ni machi awasemasu ka?
++ 1 ji ni machi awasemasyou
+
+
+
+Conversation 2:
+1.
+A: wandaa touwn wa nanji kara desuka
+B: 1ji han kara desu.
+A: nanji ni machi awasemasuka
+B: 1ji ni machi awasemashou
+A: wakarimasita
+
+2.
+A: furii marketto wa nanji kara desuka
+B: 10ji kara desu.
+A: doko de machi awasemasuka
+B: umimachi eki de machi awasemashou
+A: wakarimasita
+
+3.
+A: bijuutsukan wa nanji kara desuka
+B: 9ji han kara desu
+A: doko de machi awasemasuka
+B: bijutsukan no mae de machi awasemashou
+A: wakarimasita
+
+4.
+A: konsaato wa nan ji kara desuka
+B: 6ji kara desu
+A: nan ji ni machi awasemasuka
+B: 5ji ni machi awasemashou
+A: wakarimasita
+
+Conversation 3:
+
+? : aburaeten ga arimasu. isshoni ikimasenka?
++ : hai, ikimashou. itsu desuka?
+
+? : 21nichi kara 27nichi made desu. 23nichi wa dou desuka?
+-?: sumimasen. 23nichi wa youji ga arimasu. 25nichi wa dou desuka?
++ : hai, ii desuyo. tanoshimi ni site imasu
+
+? : doko de machi awasemasu ka
++ : midori eki biru no mae de machi awasemashou
+ jyaa, 2ji ni eigakan no mae desune
+
+? : nan ji ni machi awasemasu ka?
++ : 2ji ni machi awasemasyou
+
+
+Listening :
+
+li : syasinten ga arimasu
+
+co : -
+
+li : suiyobi kara nichiyoubi made desu.
+
+co : dou desuka?
+
+li : nichiyoubi wa desuka?
+
+co : doko de
+
+li : taiyou eki de machi awasemahou.
+
+co : -
+
+li : nan ji machi awasemasuka?
+
+co : 9ji han ni shimashou.
+
+li : -
+
+co : tanoshimi ni site imasu.
+
+
+"senshuu no ka youbi kara nichi youbi made midori eki biru de aburae ten ga arimasita.
+aburae ten wa 9ji kara 6ji made desita. tomodachi to dooyoubi ni ikimasita. 10ji ni eki de machi awasemasita."
+
+
+
