@@ -1,0 +1,208 @@
+vocabulary :
+
+ue
+naka
+shita
+daidokoro
+reizouko
+tana
+syokkidana
+hikidashi
+teeburu
+syokki
+osara
+kozara
+gurasu = gelas
+koppu = cup
+kami koppu = gelas plastik
+ohashi = sumpit
+naifu = peso
+fooku = garpu
+supoon = sendok
+fukuro
+taoru = towel
+fukin = serbet
+kantzume
+kankiri
+sennuki
+mizu
+biiru
+wain = wine
+hairu / heya ni hairu
+suwaru
+wakaru
+dasu
+toru
+hakobu = mengangkat
+tetsudau
+fuku = mengelap
+akeru = membuka
+ireru = memasukan
+naraberu = menyusun
+kakeru 
+kuru
+
+Listening 1:
+
+1. sasaki no ie
+2. reizouko ni ireru
+3. reizouko kara dasu
+
+
++ reizouko NI keeki WO iremasu
++ reizouko KARA biiru WO dasimasu
+
+? keeki WO reizokou NI iremasyou ka
+
+
+? Hoka ni NANIKA tetsudai MASYOUKA
++= jyaa, reizouko KARA biiru wo DASITE KUDASAI
+
+
+Form 'te' :
+
+"U"
+tetsudau -> tetsudate
+motsu -> motte
+toru -> totte
+
+"MU"
+yomu -> yonde
+hakobu -> hakonde
+
+"SU"
+dasu -> dasite
+
+"KU"
+fuku -> fuite
+
+"KU" *special case
+iku -> itte
+
+"GU"
+oyogu -> oyoide
+
+"RU"
+naraberu -> narabete
+akeru -> akete
+
+"Special Word"
+kuru -> kite
+suru -> site
+
+Conversation 1:
+1.
+A: keeki wo reizouko ni iremasyouka
+B: hai, onegai shimasu
+A: hoka ni nani ka tetsudaimasyouka
+B: jyaa, reizouka kara biiru wo dashite kudasai
+
+2.
+A: ryori wo hakobimasyou ka
+B: hai, onegaishimasu
+A: hoka ni nanika tetsudaimasyou ka
+B: jyaa, ohashi wo narabete kudasai
+
+3.
+A: osara wo narabemasyou ka
+B: hai, onegai shimasu
+A: hoka ni nanika tetsudaimasiyou ka
+B: jyaa, syokidana no hiki dashi ni syamoji wo irete kudasai
+
+4.
+A: syokidana kara oshara wo dashimasyou ka
+B: hai, onegai shimasu
+A: hoka ni nanika tetsudaimasyou ka
+B: jyaa, sarada wo hakonde kudasai
+
+Listening 2:
+
+1. kozara ni soyu wo irete kudasai
+2. tanna no ichiban ue ni arimasu
+3. reizouko ni arimasu
+
+
++ wasabi WA reizouko NI arimasu
++ wasabi WA reizouko NO naka NI arimasu
+
+
+hikidashi = slorokan
+tanna = rak
+
+Conversation 2:
+
+1.
+A: sumimasen ga, kozara ni shoyu wo irete kudasai
+B: hai. shoyu wa doko ni arimasuka
+A: tanna no ichiban ue ni arimasu
+B: ichiban ue desune
+A: eee, sorekara, wasabi wo totte kudasai. wasabi wa reizouko ni arimasu
+
+
+2.
+A: sumimasen ga, kantzume wo akete kudasai
+B: hai. kankiri wa doko ni arimasuka
+A: syokidana no hikidasi ni arimasu
+B: syokidana no hikadashi desune
+A: ee, sorekara, pasuta wo totte kudasai. pasuta wa shiroi fukuro no naka ni arimasu
+
+3. 
+A: sumimasen ga, teburu wo fuite kudasai
+B: hai. fukin wa doko ni arimasuka
+A: teburu no ue ni arimasu
+B: teburu no ue desu ne
+A: ee, sorekara. osara wo totte kudasai. osara wa syokidana ni arimasu
+
+4.
+A:sumimasen ga, dorezingu wo kakete kudasai
+B: hai, dorezingu wa doko ni arimasuka
+A: reizouko ni arimasu
+B: reizouko desune
+A: ee, sorekara. mizu wo totte kudasai. mizu wa tanna no ichiban shita ni arimasu
+
+Kaiwa Renshu :
+Host: dozo haite kudasai
+
+guest: ojyamasimasu, kore omiyage desu. kore wa wain desu.
+
+host: wain arigatou. 
+
+Host: ... sumimasen ga, pasuta ni oribu oil wo kakete kudasai
+
+guest: hai, oribu oil wa doko ni arimasuka
+
+Host: reizouko ni arimasu
+
+guest: reizouko desune
+
+guest: hoka ni nanika tetsudaimasyou ka / hoka ni nanika simasyou ka?
+
+Host: jyaa, syokidana no hikidashi kara kami koppu wo dashite kudasai
+
+Host: ee, sorekara. ketchup wo totte kudasai. ketchup wa tanna no ichiban ue ni arimasu
+
+guest : Hai, Wakarimasita
+
+Listening 3:
+
+1. hakobimashou ka
+
+2. hakonde kudasai
+
+3. doko ni arimasuka
+
+4. teberu no ue ni
+
+5. teburu no ue desune
+
+6. nani wo simasyouka 
+
+7. sara wo narabete kudasai. sara wa syokidana ni arimasu
+
+OWARI :
+
+Ototo, Tomodachi no ie de ikimasita. watashi wa tomodachi ni keeki wo agemasita. sorekara, tomodachi wo tetsudaimasita. pan wo hakobimasita. sosite sara wo narabemasita. patii wa totemo tanoshikatta desu.
+
+
+
+
