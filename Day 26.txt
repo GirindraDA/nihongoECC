@@ -1,0 +1,144 @@
+Vocabulary :
+
+syougatsu
+migi
+hidari
+mae
+tonari
+michi
+kousaten = crossing
+kado = pojok
+shingo = rambu lalu lintas
+chikatetsu = kereta bawah tanah
+suizokukan = aquarium
+kyanpu jyou = camp
+byoushitsu = tempat cukur rambut
+rangeeji sentaa
+kissaten
+hana
+aruku
+wataru = menyebrang
+magaru = belok
+kakaru = to cost
+masugu = jalan lurus
+douyatte
+oriru = turun
+
+Listening 1:
+
+//oriru = turun [kereta]
+
+1. chuugoku ebento
+2. densha ni notte, ishikawachou eki de orimasu
+3. 160 en kakarimasu
+
+//norimasu = naik [kereta]
+
++ yokohama DE densha NI norimasu.
++ ishikawachou eki DE densha WO orimasu.
+? yokohama eki KARA chu MADE DOUYATTE norimasu KA?
+
+++ yokohama eki DE densha NI Notte, ishikawachou DE densha WO orimasu
+
++ yokohama eki KARA ishikawachou eki MADE 10pun GURAI kakariamsu.
+
+? yokohama eki KARA ishikawachou eki MADE DONO GURAI kakariamsu KA.
+= 10pun GURAI kakariamsu.
+
++ yokohama eki KARA ishikawachou eki MADE 160 en KAKARIMASU.
+
+? yokohama eki KARA ishikawachou eki MADE IKURA kakariamsu KA.
+= 160 en KAKARIMASU.
+
++ yokohama eki KARA ishikawachou eki MADE densha DE 10 pun GURAI kakarimasu.
+
++ ishikawachou eki KARA chukagai MADE ARUITE 5 fun gurai kakarimasu.
+
+
+Conversation 1:
+
+1.
+A: yokohama eki KARA chukagai MADE DOUYATTE ikimasu KA?
+B: yokohama eki de densha ni notte, ishikawachou eki de orimasu.
+A: dono gurai kakarimasuka?
+B: 10-bun gurai kakarimasu.
+
+2.
+A: hanaki eki kara hanano bijutsukan made douyatte ikimasu ka?
+B: hanaki eki de bazu ni notte, hanano bijutsukan mae de orimasu.
+A: ikura kakarimasu ka?
+B: 250 en kakarimasu.
+
+3.
+A: higashimachi eki kara sizen kouen made douyatte ikimasu ka?
+B: higashimachi eki de chikatetsu ni notte, sakuramoto eki de orimasu.
+A: ikura kakarimasu ka?
+B: 310 en kakarimasu.
+
+4.
+A: sinden eki kara yamaoka kyanpujou made douyatte ikimasu ka?
+B: sinden eki de densha ni notte, nakai eki de orimasu.
+A: dono gurai kakarimasu ka?
+B: 1 jikan gurai kakarimsau.
+
+
+
++ kono michi wo masugu ikimasu.
++ 2tsu me no kado wo hidari magarimasu.
+
+++ kono michi wo masugu itte, 2 tsu me no kado wo hidari ni magarimasu(magatte kudasai).
+
++ kawamoto bijutsukan wa koen no tonari ni arimasu.
+
+Conversation 2:
+
+1.
+A: sumimasen, kawamoto bijutsukan wa doko desuka?
+B: kono michi wo masugu itte, 2 tsu me no kado wo hidari ni magatte kudasai.
+A: masugu itte, 2tsu me no kado wo hidari desune.
+B: hai. kawamoto bijutsukan wa koen no tonari ni arimasu.
+
+2.
+A: sumimasen, oohashi rangeeji sentaa wa doko desuka?
+B: hitotsu me no kado wo hidari ni magatte, 2tsu me no shingo wo migi ni magatte kudasai.
+A: hitotsu me no kado wo hidari ni magatte, 2tsu me no shingo wo migi desune.
+B: hai. oohashi rangejii senta wa ginkou no mae ni arimasu.
+
+3.
+A: sumimasen, nakamura pan wa doko desu ka?
+B: kousaten wo watate, hitotsu me no kado wo migi ni magatte kudasai.
+A:  kousaten wo watate, hitotsu me no kado wo migi desune. 
+B: hai. nakamura pan wa resutoran no mae ni arimasu.
+
+4.
+A: sumimasen, furawaa byousitsu wa doko desu ka?
+B: kono michi wo masugu itte, futatsu me no kado wo migi ni magatte kudasai
+A: kono michi wo masugu itte, futatsu me no kado wo migi desune. 
+B: hai. furawaa byousitsu wa kafee no tonari ni arimasu.
+
+
+/*
+michi = jalan
+kousaten = crossing
+kado = pojok (corner)
+shingo = rambu lalu lintas
+*/
+
+Listening 3:
+
+1. dono gurai kakarimasuka
+2. aruite 10 pun kakarimasu.
+3. masugu itte
+4. migi ni magarimasu.
+5. tonari ni arimasu.
+6. parinu kara douyatte ikimasuka?
+7. basu de notte
+8. 220 en kakarimasu.
+
+
+
+
+
+
+
+
