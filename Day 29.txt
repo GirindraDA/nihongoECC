@@ -1,0 +1,158 @@
+Vocabulary :
+
+nama harumaki
+dezaato
+nigate
+
+
+Listening 1:
+
+1. sharehouse paatii.
+2. suteeki desu.
+3. jingisukan desu (makanan jepang berisi sayuran)
+
+
+++ suki                                                                                         na niku ryouri wa suteeki desu.
++- nigate na niku ryouri ha jingisukan desu.
+
+?+ suki na niku ryouri wa nan desuka
++= suteeki desu (sebut saja nama makanannya)
+-= arimasen
+
+?- nigate na niku ryouri ha nan desuka?
++= jingisukan desu
+-= arimasen
+
+Conversation 1:
+
+1.
+A: suki na niku ryouri wa  nan desuka?
+B: suteki desu.
+A: sou desuka. nigate na niku ryouri wa nan desuka?
+B: jingisukan desu.
+
+2.
+A: suki na yasai ryouri wa nan desuka? 
+B: yasai kare desu.
+A: sou desuka. nigate na yasai ryori wa nan desuka?
+B: arimasen
+
+3.
+A: suki na sakana ryouri wa nan desuka?
+B: saamon no sichuu desu.
+A: sou desuka. nigate na sakana ryouri wa nan desuka? 
+B: sashimi desu.
+
+4.
+A: suki na nihon ryouri wa nan desuka?
+B: tenpura desu.
+A: sou desuka. nigate na nihon ryouri wa nan desuka?
+B: soba desu.
+
+Listening 2:
+
+1. gyoza wo tsukute ikimasu.
+2. nomimono desu. birru ya juzuu wo katte ikimasu.
+3. biiru ga nomitai desu
+
+
++ gyouza WO tsukutte IKImasu.
+
++ nomimono WO katte KITEkudasai.
+
+? paatii no hi, nanika KATTE IKIMASHOUKA?
+
+? NANI GA nomiTAI desu ka?
+
+= biiru GA nomiTAI desu.
+
+Conversation 2:
+
+1.
+A: paatii no hi, nani ka katte IKImashou ka? 
+B: hai, onegaishimasu. nomimono wo katte KITE kudasai
+A: nani ga nomitai desuka?
+B: biiru ga nomitai desu.
+
+2.
+A: paatiii no hi, nani ka tsukute ikimashou ka?
+B: hai, onegaishimasu. betonamu ryouri wo tsukute kite kudasai.
+A: nani ga tabetai desuka?
+B: namaharumaki ga tabetai desu.
+
+3.
+A: paatii no hi, nani ka tsukute ikimashouka?                                   
+B: hai, onegaishimasu. dessato wo tsukute kite kudasai.
+A: nani ga tabetai desuka? 
+B: banana keeki ga tabetai desu.
+
+4.
+A: paati no hi, nani ka katte ikimashouka?
+B: hai, onegaishimasu. jyuusu wo katte kite kudasai.
+A: nani ga nomitai desuka?
+B: orenjii jyuusu to ringo jyuusu ga nomitai desu.
+
+Listening 3:
+
+1. sukina nihon ryouri wa
+2. yakitori desu.
+
+4. jyagaimo no ryouri
+5. nigate na nihon ryouri wa
+6. arimasen
+7. katte ikimasu ne.
+
+
+
+sukina nihon ryouri wa nan desuka? 
+
+nigate na nihon ryouri wa nan desuka?
+
+nanika katte ikimashou ka?
+
+/*
+ashita, yamadai san to paati wo simasu. watashi no sukina indonesia ryouri ha sate desu. nigate na indonesia ryouri wa arimasen. yamadai san no suki na indonesia ryouri wa soto desu. nigate na indonesia ryouri wa tamago ryouri desu. yamadai san wa soto ga suki desukara, watashi wa soto to sate wo katte ikimasu. ashita no paati totemo tanoshimi desu.
+*/
+
+
+
+
+//nanika tsukutte ikimashouka?
+
+nani ga tabetai desuka?
+
+//nanika tabetai desuka?
+
+
+
+..., patii wa dooyobi desune.
+
+sukina nihon ryouri wa nan desuka?
+=
+
+nanika katte ikimashouka?
+= ramen wo katte k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
