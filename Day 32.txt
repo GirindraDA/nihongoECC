@@ -1,0 +1,173 @@
+Vocabulary :
+
+oden
+macha
+wagashi
+remonedo
+roorukeeki = roll cake
+meepururate
+kyaramerurate
+habanero
+yawarakai
+
+Listening 1:
+
+1. hai, arimasu
+2. amakatta desu
+3. hai, ikimashou
+
+#akhiran U
+kau => katta
+motsu => motta
+tsukuru => tsukutta
+
+#akhiran MU
+nomu => nonda
+asobu => asonda
+
+#akhiran SU
+hanasu => hanasita
+
+#akhiran KU
+kiku => kiita
+*iku => itta
+
+#akhiran GU
+oyogu => oyoida
+
+#akhiran RU
+taberu => tabeta
+
+#akhiran specialCase
+kuru => kita
+suru => sita
+
+
+? wagashi HA DOU DESITAKA?
++ wagashi HA amakatta desu.
+
+? Wagashi ha tabeta koto ga arimasuka
++= hai, arimasu.
+? wagashi ha dou desitaka?
++= amakatta desu.
+
+? Wagashi ha tabeta koto ga arimasuka
+-= iie, arimasen.
+? kondo tabe ni ikiMASENKA? //invite him/his to try 
+-= eee, ikimashou.
+
+
+Conversation 1:
+
+1.
+A: wagashi wo tabeta koto ga arimasuka
+B: hai, arimasu
+A: dou desitaka?
+B: amakatta desyu
+
+2.
+A: Oden wo tabeta koto ga arimasuka?
+B: iie, arimasen
+A: kondo, tabe ni ikimasenka?
+B: eee, ikimashou
+
+3.             
+A: macha wo nonda kota ga arimasuka?
+B: iie, arimasen
+A: kondo, nomi ni ikimasenka?
+B: ee, ikimashou.
+
+4.
+A: nihon ryouri wo tsukutta koto ga arimasuka?
+B: hai, arimasu
+A: dou desitaka?
+B: taihen desita.
+
+
++ kore ha moriyama Beekarii NO pan desu.
+? tabeta koto ga arimasuka
+=+ hai, arimasu. YawarakaKUTE oishii desune.
+
+
++ kore ha moriyama Beekarii NO pan desu.
+? tabeta koto ga arimasuka
+=- iie, arimasen. yawarakaKUTE oishii desuyo.
++ kondo, tabete MIMASU.
+
+
+Conversation 2:
+
+1.
+A: oishi sou desune 
+B: kore ha moriyama Beekarii NO pan desu. tabeta koto ga arimasuka
+A: hai, arimasu. YawarakaKUTE oishii desune.
+B: burain jerrii takasugi no pan mo oishii desuyo
+A: kondo, tabete mimasu
+
+2.
+A: ama sou desune.
+B: kore wa roll cake desu. tabeta koto ga arimasuka
+A: iie arimasen.
+B: amakute oishii desu yo
+A: kondo, tabete mimasu.
+
+3.
+A: kara sou desune.
+B: kore wa habanero no okashi desu. tabeta koto ga arimasuka?
+A: iie arimasen
+B: totemo karakute oishii desu yo.
+A: kondo katte mimasu
+
+4.
+A: suppa sou desune. //suppai
+B: kore wa fureshu kafe no remonedo desu. nonda koto ga armiasuka?
+A: hai, arimasu. supakute oishii desune.
+B: kisafukurou no remonedo mo oishii desu yo.
+A: kondo nonde mimasu.
+
+
+Toko : suzuran, mos burger
+produk: kohiii, macha latte
+
+- kohi no suzuran ya wa nonda koto ga arimasuka?
+- iie, arimasen.
+- asoko no kohhi wa totemo oishii desuyo. 
+- kondo, nonde mimasu.
+
+Listening 3:
+
+1. oishi sou desune
+2. itta koto ga arimasuka
+3. nonda koto ga arimasuka
+4. amakute oishii desuyo
+5. nonde mimasu
+6. itta koto ga arimasuka
+7. amakute oishii desuyo
+8. ikimasenka
+
+
+A: wagashi wo tabeta koto ga arimasuka
+B: hai, arimasu
+A: dou desitaka?
+B: amakatta desu
+
+A: ama sou desune.
+B: kore wa roll cake desu. tabeta koto ga arimasuka
+A: iie arimasen.
+B: amakute oishii desu yo
+A: kondo, tabete mimasu.
+
+A: suppa sou desune. 
+B: kore wa fureshu kafe no remonedo desu. nonda koto ga armiasuka?
+A: hai, arimasu. supakute oishii desune.
+B: kisafukurou no remonedo mo oishii desu yo.
+A: kondo nonde mimasu.
+
+/*
+Suzuran ya ni itta koto ga arimasuka. suzuran ya wa ramen wo urimasu. watashi wa suzuran no akai ramen ga ichiban suki desu. yasukute oishii desu. Yoshi ramen ni itta koto ga arimasen kara, kondo itte mimasu. ishoni ikimasenka.
+*/
+
+
+
+
+
