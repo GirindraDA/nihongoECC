@@ -1,0 +1,149 @@
+Vocabulary :
+
+ototoi
+kimochi
+kimochi ga ii
+
+syukudai = pr
+syukudai wo suru = mengerjakan pr
+
+Listening 1:
+
+1. tomodachi to syokuji site karaoke ni iku.
+2. syukudai wo site gemu wo suru.
+
+
+//polite (teinei tai):
++ konban, tomodachi to syokuji site karaoke ni ikimasu
+
+//casual (futsuu tai):
++ konban, tomodachi to syokuji site karaoke ni iku
+
+//question ():
+? konban NANI WO SURU
+=+ tomodachi to syokuji site karaoke ni iku
+
+
+Conversation 1:
+
+1.
+A: konban, nani wo suru?
+B: tomodachi to syokuji site karaoke ni iku. ron ha?
+A: syukudai wo site geemu wo suru.
+B: ii ne.
+
+2.
+A: ashita, nani wo suru?
+B: sentaku wo site sooji wo suru. anshu ha?
+A: kafe de hiru gohan wo tabete eiga wo miru.
+B: ii ne
+
+3.
+A: nichiyoubi, nani wo suru?
+B: toshoukan de hon wo karite ie de hon wo yomu. kuristina ha?
+A: deepato ni itte imotou no tanjoubi purezentoo wo kau.
+B: ii ne
+
+4.
+A: konban, nani wo suru?
+B: jimu de oyoide ie ni kaeru. miki ha?
+A: tai ryouri wo tsukutte taberu
+B: ii ne
+
+
+Listening 2:
+
+1. cycling wo sita.
+2. horor eiga wo mita.
+3. kowakatta demo omoshirokatta.
+
+//polite (teinei tai):
++ kinou, saikringu wo simashita.
+
++= saikuringu ha kimochi ga yokute tanoshikatta desu.
+
++-= saikuringu ha kimochi ga yokatta desu. demo, taihen desita.
+
+//casual (futsuu tai):
++ kinou, saikuringu wo sita.
+
++= saikuringu ha kimochi ga yokute tanoshikatta.
+
++-= saikuringu ha kimochi ga yokatta. demo, taihen datta.
+
+//question ():
+? kinou, NANI WO SITA?
++= saikuringu sita.
+
+? saikuringu ha dou datta?
++= kimochi ga yokute tanoshikatta.
+
+Conversation 2:
+
+1.
+A: kinou, nani wo shita?        
+B: saikuringu wo sita
+A: saikuringu ha dou datta?
+B: kimochi ga yokute tanoshikatta.
+
+2.
+A: shuumatsu, nani wo sita?
+B: kyouto ni itta
+A: kyouto ha dou datta?
+B: hito ga ookute nigiyaka datta.
+
+3.
+A: ototoi, nani wo sita?
+B: mexico ryouri wo tabe ni itta.
+A: mexico ryouri ha dou datta?
+B: oishikatta demo takakatta.
+
+4.
+A: dooyoubi, nani wo shita?
+B: kazoku to babekyuu wo shita. 
+A: babekyuu wa dou datta?
+B: tanoshikatta demo atsukatta.
+
+
+Listening 3:
+
+1. syokuji site
+2. ie de yukkuri suru
+3. nani wo sita?
+4. itte
+5. mita
+6. dou datta?
+7. hirokute hana ga kirei datta
+8. dou datta?
+9. ishogasikute taihen datta
+
+/*
+senshuu no nichiyoubi ha tomodachi to mooru ni itte eigakan de eiga wo mimasita. eiga ha subarashiikute totemo omoshirokatta. konshuu no nichiyoubi ha ojiisan no ie ni ikimasu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

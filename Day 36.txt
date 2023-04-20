@@ -1,0 +1,166 @@
+Vocabulary:
+
+asate = 2 hari dari sekarang
+repoto = report
+kyanmpu = campu
+myujikaru = musical
+paeria 
+
+noboru
+dekakeru
+
+Listening 1:
+
+1. un, hima desu.
+2. isshoni keeki wo tsukuru.
+3. katou san no ie de tsukuru.
+
+
+//Polite (teinei tai):
++ nichiyoubi, ishhoni keeki wo tsukurimasen ka.
++= hai, tsukurimashou.
+
+
+//Casual (futsuu tai):
++ nichiyoubi, isshoni keeki tsukuranai.
++= un, tsukuro
+
+
+//Question ():            
+? DOKO DE keeki wo tsukuru?
++= ie DE keeki wo tsukuROU
+
+
+<--ikou KEI : -->
+
+tipe 1:
+tsukuru => tsuku ROU
+
+tipe 2:
+taberu => tabe YOU
+
+tipe 3:
+kuru => ko YOU
+suru => shi YOU
+
+ryouri suru => ryouri shi YOU
+
+
+Conversation 1:
+
+1.
+A: nichiyoubi, isshoni keeki wo tsukuranai?
+B: un, tsukurou. doko de tsukuru?
+A: watashi no ie de tsukurou.
+B: un, wakatta.
+
+2.
+A: kyou, isshoni repoto wo kakanai?
+B: un, kakou. doko de kaku?                        
+A: toshoukan de kakou.
+B: un, wakatta.
+
+3.
+A: ashita, isshoni hiru gohan wo tabenai?
+B: un, tabeyou. doko de taberu?
+A: gurirudo beji de tabeyou.
+B: un, wakatta.
+
+4.
+A: asate, isshoni tenisu wo shinai?
+B: un, shiyou. doko de suru?
+A: supootsu sentaa de shiyou.
+B: un, wakatta.
+
++ mou sugu haru yasumi DANE
+
+//Polite
++ haruyasumi ni sinjuku gyoen ni ikiitai desu.
+
++ shinjuku gyouen ni itta koto ga arimasu.
+
+//Futsuu
++ haruyasumi ni sinjuku gyoen ni ikitai.
+
++ shinjuku gyouen ni itta koto ga aru.
+
+//Question
+? haruyasumi ni NANI wo SHITAI
++= un, aru
+-= uun, nai
+
+Conversation 2:
+
+1.
+A: haruyasumi ni nani wo sitai?
+B: shinjuku gyoen ni ikitai.
+A: dani ha shinjuku gyoen ni itta koto ga aru?
+B: uun, nai.
+
+2.
+A: gooruden weeku ni nani wo sitai?
+B: kyanpu wo shitai.
+A: pieeru wa kyanpu wo sita koto ga aru?
+B: un, aru. taihen datta.
+
+3.
+A: fuyu yasumi ni nani wo sitai?
+B: myujikaru wo mitai.
+A: bibian ha myujikaru wo mita koto ga aru?
+B: un, aru. omoshirokatta.
+
+4.
+A: natsuyasumi ni nani wo sitai?
+B: fujisan ni noboritai.
+A: kojio ha fuji san ni nobota koto ga aru?
+B: uun, nai.
+
+
+Listening 2:
+
+1. nani wo sitai
+2. mitai
+3. mitai
+4. miyou
+4. doko de 
+5. mita koto ga aru
+6. hiroi yo
+7. tabenai
+8. tabeyou
+9. uun, nai
+
+
+Kaiwa :
+
+A: shuumatsu ni hima?
+B: un, hima.
+A: dokoka ni dekakenai?
+B: un dekakeyou?
+
+A: nani wo sitai?
+B: umi ni oyogitai?
+A: ali ha umi ni itta koto ga aru?
+
+B: un, aru. sugoku ii tokoro datta yo.
+
+-- B: uun, nai.
+
+A: sorekara, gohan wo tabenai.
+B: ii yo. tabeyou.
+
+A: doko de taberu.
+B: restoran ... ni tabeyou.
+
+A: nani wo tabetai.
+B: nasi goreng wo tabetai.
+
+A: jya, nasi goreng wo tabeyou.
+
+B: tanoshimi dane
+A: un.
+
+
+/*
+Watashi ha sendai ni ikitai desukara, asate tomodachi to sendai ni ikimasu. sorekara yamagata ni ikimasu. yamagata de watashi tachi ha udon wo tabetai desu. watashi wa yamagata ni itta koto ga arimasen. totemo tanoshimi desu.
+*/
+
