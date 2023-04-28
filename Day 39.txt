@@ -1,0 +1,163 @@
+Vocabulary:
+
+hoteru
+hashi = jembatan
+fune = kapal
+sanchyou = berdiri di top yama
+taki = air terjun
+tsuki = bulan
+hoshi = bintang
+tori = burung
+koara = koala
+chuuripu = tulip
+nano hana 
+baorin = biola
+oto = suara
+nakigoe = cuitan burung
+kayaaku
+syunookeringu = snowcling
+hanmokku 
+
+saku = mekar
+mieru = terlihat
+kikoeru = terdebgar
+hoshi ga/ tsuki ga DERU
+
+utsukushi
+jyouzu
+gouka = wonderful
+
+Listening 1:
+
+1. umi to hashi ga mieru
+2. tori no nakigoe
+3. chisai hana
+
+
++ sanchou KARA umi GA MIEMASU.
++ tori no nakigoe GA KIKOEMASU.
++ chisai hana GA SAITE IMASU.
++ hoshi GA DETE IMASU.
+
+Conversation 1:
+
+1.
+A: sanchou kara umi ga miemasu ne.
+B: kirei desune. hashi mo miemasu yo.
+A: nagai desu ne.
+B: hontou desu ne.
+
+2.
+A: hoshi ga takusan dete imasu ne. 
+B: sugoi desu ne. tsuki mo dete imasu yo.
+A: utsukushii desu ne.
+B: hontou desu ne.
+
+3.
+A: chuurippu ga saite imasu ne.
+B: kawaii desu ne. nano hana mo saite imasu yo.
+A: kirei desu ne.
+B: hontou desu ne.
+
+4.
+A: piano no oto ga kikoemasu ne.
+B: suteki desu ne. baiorin no oto mo kikoemasu yo.
+A: jyouzu desu ne.
+B: hontou desu ne.
+
+Listening 2 :
+
+1. 
+2. 
+3. 
+
+
++ okujyo ni puuru ga ARU hoteru (plain form)
++ interia ga OSYARE NA hoteru.
+(na keyoushi)
++ shukhakuryouga 30.000 MAN NO hoteru. (noun plain form)
+
++= tenisu ya gorufu wo suru koto ga DEKIRU hoteru ni tomarimasu.
+? DONNA hoteru ni tomarimasu KA
+
+Conversation 1:
+
+1.
+A: kyou, watashi tachi wa donna hoteru ni tomarimasu ka?
+B: tenisu ya gorufu wo suru koto ga dekiru hoteru ni tomarimasu.
+A: atarashii hoteru desuka?
+B: iie, atarashii hoteru jyanai desu
+
+2.
+A: korekara, watashi tachi wa donna fune ni norimasu ka?
+B: resutoran ga aru fune ni norimasu.
+A: gouka na fune desuka?
+B: hai, gouka na fune desu.
+
+3.
+A: ashita, watashi tachi wa donna doubutsuen ni ikimasu ka?
+B: koara ga iru doubutsuen ni ikimasu.
+A: yuumei na doubutsuen desuka?
+B: hai, totemo yuumei na doubutsen desu.
+
+4.
+A: konban, watashi tachi wa donna mise de gohan wo tabemasuka? 
+B: sinsen na sakana wo taberu koto ga dekiru mise de gohan wo tabemasu.
+A: ookii mise desu ka?
+B: iie, amari ookii mise jyanai desu.
+
+<--  -->
+
+A: ashita, watashi tachi wa donna suizokukan ni ikimasu ka?
+B: same ga iru suizokukan ni ikimasu.
+A: ookii suizokukan desuka?
+B: hai, totemo ookii suizokukan desu.
+
+A: Bangohan, watashi tachi wa donna mise de gohan wo tabemasuka? 
+B: sushi wo taberu koto ga dekiru mise de gohan wo tabemasu.
+A: yuumei na mise desu ka?
+B: iie, amari yuumei na mise jyanai desu.
+
+<--   -->
+
+Listening 3:
+
+1. babekyu ya tsuri ga dekiru
+2. hiroi tokoro desu ka?
+3. hiroi tokoro desu
+4. hoshi ga takusan miemasu
+5. kyanpu wo suru 
+6. hana ga takusan saite imasu yo.
+ 
+/*
+A: ashita, watashi tachi wa donna kyampu tokoro ni ikimasu ka?
+B: tsuri wo suru koto ga dekiru tokoro ni ikimasu.
+A: yuumei na kyanpu tokoro desuka?
+B: hai, totemo yuumei na kyanpu tokoro desu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
