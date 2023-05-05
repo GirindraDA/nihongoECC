@@ -1,0 +1,135 @@
+Vocabulary:
+
+asu
+gozen
+gogo
+tenki = cuaca
+tenki yohou = ramalan cuaca
+kisyou yohou shi = pembawa acara ramlana cuaca
+
+hare
+ame
+kumori
+
+kion = degree/derajat/suhu cuaca
+saikou kion = suhu tertinggi
+saitei kion = suhu terendah
+
+yosou = a forecast
+
+ame ga furu
+yuki ga furu
+iu
+suzushii
+motto
+ii tenki
+
+14 DO = 14 celcius
+
+1 nichi juu = 1 hari full
+gozen juu =  pagi full
+
+
+Listening 1:
+
+1. haru desu
+2.
+
+
+Conversation 1:
+
+1.
+A: atatakaku narimasta ne
+B: sou desune. atatakaku narimasita ne. haru desune.
+A: shuumatsu ha motto atatakaku naru sou desu.
+B: sou nan desuka.
+
+2.
+A: atsuku narimasita ne.
+B: sou desune. atsuku narimasita ne. natsu desu ne.
+A: ashita ha motto atsuku naru sou desu.
+B: sou nan desuka.
+
+3.
+A: samuku narimasita ne.
+B: sou desune. samuku narimasita ne. fuyu desu ne.
+A: asatte ha motto samuku naru sou desu.
+B: sou nan desuka.
+
+4.
+A: suzushiku narimasita ne.
+B: sou desune. suzushiku narimasita ne. aki desu ne.
+A: raishuu ha motto suzushiku naru sou desu.
+B: sou nan desuka.
+
+
+Listening 2:
+
+1. iie, amari ii tenki jyanai.
+2. ame ga kuru sou desu.
+3. iie, shirimasen desita.
+
+/*
+kumori desu => kumori da -> kumori deshou.
+*/
+
+ame ga furimasu -> ame ga furu deshou.
+suzushii desu -> suzushii deshou.
+
+
++ gozenjuu ha kumori deshou.
+
++tenki yohou DE gogo jara ame ga furu TO itte imasita
+
+
+Conversation 2:
+
+1.
+A: kyou ha amari ii tenki jyanai desune.
+B: sou desune. gogo kara ame ga furu sou desu yo.
+A: sou nan desuka.
+B: hai. kinou tenki youhou de gogo kara ame ga furu to itte imasita.
+
+2.
+A: kyou ha ii tenki desune.
+B: sou desune. ichi nichi juu atsui sou desu yo.
+A: sou nan desuka.
+B: hai. kinou tenki youhou de ichi nichijuu atsui to itte imasita.
+
+3.
+A: kyou ha atatakai desune. 
+B: sou desune. ichi nichijuu hare da sou desu.
+A: sou nan desuka.
+B: hai. kinou tenki yohou de ichi nichijuu hare da to itte imasita.
+
+4.
+A: kyou ha samui desune.
+B: sou desune. yoru kara yuki ga furu sou desu yo.
+A: sou nan desuka.
+B: hai. kinou tenki yohou de yoru kara yuki ga furu to itte imasita.
+
+Listening 3:
+
+1. hare
+2. 18 do
+3. atataku naru
+4. atatakaku narimasita ne.
+5. atatakaku narimasita ne.
+6. 18 do da sou desu.
+7. 18 do da to itte imasita.
+8. motto atataku naru sou desu yo.
+
+haru:
+asu ha 
+gozen chuu kumori desu yo
+gogo kara hare desu yo
+asa ha samui desu ga, 
+gogo ha atatakaku naru desuyo.
+
+
+36 do ni naru sou desu
+
+
+
+
+
