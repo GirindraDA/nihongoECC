@@ -1,0 +1,153 @@
+Vocabulary:
+
+me
+megusuri 
+nodo
+ugai
+nodo ame
+kubi
+atama
+itami dome
+ashi
+i
+taichou
+taichou ga warui
+tsurai
+futsuka yoi
+kinnikukutsu
+sutorechi = stretching
+sippu = koyok cabe
+haru 
+
+Listening 1:
+
+1. onaka
+2. atatakai ocho wo katte ikimasu.
+
+Conversation 1:
+
+1.
+A: taichou ga warusou desune.
+B: hai ... onaka ga itai ndesu
+A: sou desuka. atatakai ocha wo katte kimashou ka?
+B: hai, onegai simasu.
+
+2.
+A: tsurasou desune
+B: hai ... atama ga itai ndesu.
+A: sou desuka. itami dome wo katte kimashou ka?
+B: hai, onegai simasu
+
+3.
+A: tsurasou desune
+B: hai ... kin niku tsu nan desu.
+A: sou desuka. sippu wo katte kimashou ka?
+B: iie, kekkou desu.
+
+4.
+A: taichou ga warusou desune?
+B: hai ... futsuka yoi nan desu
+A: sou desuka. mizu wo katte kimashou ka?
+B: iie, kekkou desu.
+
+
+Listening 2:
+
+1. nodo no choushi ga warui desu
+2. ugai sita hou ga ii desu.
+
+
+Conversation 2:
+
+1.
+A: nodo ga itai ndesu
+B: dousite nodo ga itai desuka?
+A: kinou karaoke de utai sugita ndesu.
+B: ugai wo sita hou ga ii desuyo.
+A: hai, yatte mimasu.
+
+2.
+A: kubi ga itai ndesu.
+B: dousite kubi ga itai ndesuka?
+A: kinou, sumahoo wo tsukai sugita ndesu.
+B: sutrechiii wo sita hou ga ii desu yo.
+A: hai, yatte mimasu.
+
+3.
+A: atama ga itai ndesu.
+B: dousite atama ga itai ndesuka?
+A: kinou, biiru wo nomi sugita ndesu.
+B: mizu wo takusan nonda hou ga ii desuyo.
+A: hai, yatte mimasu
+
+4.
+A: ashi ga itai ndesu.
+B: doushite ashi ga itai ndesuka?
+A: kinou, aruki sugita ndesu.
+B: sippu wo hata hou ga ii desuyo.
+A: hai, yatte mimasu.
+
+Listening 3:
+
+1. waru sou desune
+2. itai ndesu.
+3. sou nan desuka. dousite i ga itai ndesuka?
+4. tabe sugita ndesu
+5. nonda hou ga
+6. kusuri wo katte kimashouka
+7. kekkou desu.
+
+
+/*
+A: taichou ga warusou desune.
+B: hai ... atama ga itai ndesu
+A: sou desuka. atatakai ocha wo katte kimashou ka?
+B: hai, onegai simasu.
+
+A: atama ga itai ndesu.
+B: dousite atama ga itai ndesuka?
+A: kinou, biiru wo nomi sugita ndesu.
+B: mizu wo takusan nonda hou ga ii desuyo.
+A: hai, yatte mimasu
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
