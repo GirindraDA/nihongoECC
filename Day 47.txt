@@ -1,0 +1,160 @@
+Vocabulary:
+
+seki = batuk
+seki ga deru 
+
+namida
+hana mizu = ingus
+simoyake
+kafunshou
+natsu bate
+nenza
+tsuki yubi
+gikkuri goshi
+karada
+koshi
+te
+yubi
+
+eiyou = nutrition
+mawari = around
+
+kontaku torenzu
+mizu shigoto
+
+korobu
+tomaru
+tsukeru = memakai (lensa kontak)
+tsukareru
+
+darui
+kayui
+
+
+Listening 1:
+
+1. me desu
+2. me o mawari atatameta hou ga ii desu
+
+
+Conversation 1:
+
+1.
+A: dou sita ndesuka?
+B: me ga tsukarete iru ndesu.
+A: me no mawari wo atatameta hou ga ii desu yo.
+B: sou desuka.
+A: kyou ha sumaho ya pasokon wo tsukawanai hou ga ii desu yo.
+
+2.
+A: dou sita ndesuka?
+B: karada ga darui ndesu.
+A: sukoshi neta hou ga ii desu yo.
+B: sou desuka.
+A: kyou, osake wo nomanai hou ga ii desu yo.
+
+3.
+A: dou sita ndesuka?
+B: koshi ga itai ndesu.
+A: sutorecchi wo sita hou ga ii desu yo.
+B: sou desuka
+A: kyou, koshi wo hiyasanai hou ga ii desu yo.
+
+4.
+A: dou sita ndesuka?
+B: futsuka yoi nandesu.
+A: takusan mizu wo nonda hou ga ii desu yo.
+B: sou desuka
+A: kyou, undou wo shinai hou ga ii desu yo.
+
+
+Listening 2:
+
+1. koronda ndesu. nenza desu.
+2. hai, ii desu yo. demo nagai jikan wo abinai hou ga ii desu.
+
+? DOU SIMASITAKA
++= ashi ga itai NDESU
+
++= Nenza desune
+= mai asa kono sippu wo hatte KUDASAI
+
+? kyou, syawa wo abite MO II DESUKA
++= hai, ii desuyo.
+-= iie, abinaiDE KUDASAI.
+
+
+Conversation 2:
+
+1.
+A: dou simasitaka?
+B: hidari ashi ga itai ndesu.
+A: nenza desune. mai asa kono sippu wo hatte kudasai.
+B: hai wakarimasita. kyou syawa wo abite mo ii desuka?
+A: haii, ii desu yo. demo, nagai jikan abinaide kudasai.
+
+2.
+A: dou simasitaka?
+B: netsu ga aru ndesu.
+A: kaze desune. syokuji no ato de kono kusuri wo nonde kudasai.
+B: hai wakarimasita. kyou, ofuro ni haittemo ii desuka.
+A: iie hairanaide kudasai. demo atatakai heya de yasunde kudasai. 
+
+3.
+A: dou simasitaka?
+B: namida ga tomaranai ndesu.
+A: kafunshou desune. 1 nichi ni 3 kai kusuri wo nonde kudasai
+B: hai wakarimasita. kyou, kontaku rensu wo tsukete mo ii desuka.
+A: iie, tsukenaide kudasai. demo megane wo kakette kudasai.
+
+4.
+A: dou simasitaka?
+B: te to ashi ga kayui ndesu.
+A: simoyake desune. neru mae ni kusuri wo nute kudasai.
+B: hai wakarimasita. kyou, mizu shigoto wo site mo ii desuka.
+A: hai, ii desu yo. demo tsumetai mizu wo tsukawanaide kudasai.
+
+Listening 3:
+
+1. dou simasitaka?
+2. saikin, karada ga darui ndesu
+3. kono kusuri wo nonde kudasai.
+4. jimu de undou site mo ii desuka.
+5. undou wo sinaide kudasai.
+6. tabete kudasai.
+7. sarada wo tabenai hou ga ii desu
+8. tabeta hou gai ii desu 
+yo
+
+
+/*
+A: dou sita ndesuka?
+B: futsuka yoi nandesu.
+A: takusan mizu wo nonda hou ga ii desu yo.
+B: sou desuka
+A: kyou, undou wo shinai hou ga ii desu yo.
+
+A: dou simasitaka?
+B: te to ashi ga kayui ndesu.
+A: simoyake desune. neru mae ni kusuri wo nute kudasai.
+B: hai wakarimasita. kyou, mizu shigoto wo site mo ii desuka.
+A: hai, ii desu yo. demo tsumetai mizu wo tsukawanaide kudasai.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
