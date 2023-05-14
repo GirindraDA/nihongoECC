@@ -1,0 +1,131 @@
+Vocabulary:
+
+gekkan = amonth long period
+kenkou = genki to onaji
+wakkingu
+taisou = strech
+rajio taishou = senam
+puuru = pool
+kaidan = tangga
+aojiru = minuman terbuat dari daun
+
+kayou = to go to and from
+
+
+Listening 1:
+
+1. hai, tabeteimasu.
+2. iie, site imasen.
+
+
+Conversation 1:
+
+1.
+A: asa gohan wo tabete imasuka?
+B: hai, tabete imasu.
+A: ii desune. kenkou no tame ni mainichi asa gohan wo tabete kudasai.
+B: hai, sou simasu.
+
+2.
+A: kaidan wo tsukate imasuka?
+B: hai, tsukate imasu.
+A: ii desune. kenkou no tame ni kaidan wo tsukate kudasai.
+B: hai, sou simasu. 
+
+3.
+A: undou wo site imasuka?
+B: iie, site imasen
+A: sou desuka. 1shuu kan ni 2kai ijou wo undou site kudasai
+B: hai, simasu
+
+4.
+A: sanpoo wo site imasuka?
+B: iie, site imasen. 
+A: sou desuka. mainichi 30pun gurai sanpo wo site kudasai.
+B: hai, simasu.
+
+
+Listening 2:
+
+1. 3kai gym ni kayote imasu
+2. nani mo site imasen.
+
+
+? kenkou no tame ni NANI KA SITE IMASUKA
+
++= hai, isshukan ni 3kai gym ni kayote IMASU
+-= iie, NANI MO SITE IMASEN.
+
+
+Conversation 2:
+
+1.
+A: kenkou no tame ni nani ka site imasuka?
+B: hai, isshukan ni 3kai gym ni kayote imasu.
+A: ii desune.
+B: masuda san ha kenkou no tame ni nani ka site imasuka?
+A: iie, nani mo site imasen
+
+2.
+A: kenkou no tame ni nani ka site imasuka?
+B: hai, maiban sutorecchi wo site imasu.
+A: ii desune.
+B: nakano san ha kenkou no tame ni nani ka site imasuka?
+A: hai, mai asa 1jikan aruite imasu.
+
+3.
+A: kenkou no tame ni nani ka site imasuka?
+B: hai, mainichi nato wo tabete imasu.
+A: ii desune.
+B: kou san ha kenkou no tame ni nani ka site imasuka?
+A: hai, mainichi aojiru wo nonde imasu.
+
+4.
+A: kenkou no tame ni nani ka site imasuka?
+B: hai, maiasa rajio taishou wo site imasu.
+A: ii desune.
+B: birii san ha kenkou no tame ni nani ka site imasuka?
+A: hai, isshukan ni 2kai puuru de oyoide imasu.    
+
+
+Listening 3:
+
+1. asa gohan wa tabete imasuka.
+2. kenkou no tame ni
+3. hai sou simsau.
+4. iie site imasen.
+5. isshukan ni 2kai ijou.
+6. nanika site imasuka.
+7. hai, yasai wo takusan tebete imasu.
+
+/*
+nanji ni okite imasuka
+nanji ni nete imasuka
+
+isogashii desuka?
+
+asa gohan wo tabete imasuka?
+
+yasai wo tabete imasuka?
+
+osake wo tabete imasuka?
+
+undou wo site imasuka?
+
+kenkou no tame ni hoka ni nanika site imasuka?
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
