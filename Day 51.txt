@@ -1,0 +1,136 @@
+Vocabulary:
+
+abura = oil
+kona
+furaido poteto
+kiji = dough, batter
+gu = bahan2 masakan dalam makanana
+chou = kupu2
+bunryou an amount, a quantity
+ranchi = launch
+yaki tate = roti panggang
+faru faare 
+
+hairu = to include
+ageru = goreng, deep fried
+
+chuumon
+chuumon suru = memesan 
+haitatsu
+haitatsu suru = delivery (paket)
+
+jyuubun
+sawayaka = fresh
+sikkari = firmly, tightly
+yoyaku wo toru = memboking
+
+
+
+~ppoi
+
+Konappoi -> konappoku naru
+mizuppoi -> mizuppoku naru
+aburappoi -> aburappoku naru
+
++ mizu ga oosugiru TO, mizuppoKU NARIMASU.
+
++ kiji wo sikkari mazeNAI TO, konappoKU NARIMASU.
+
+
+-karage wo tsukuru toki, abura ga oosugiru to, aburappoku narimasu. sikkari sukoshi dake iremasu.
+
+-batta ga oosugiru to, battaku narimasu yo.
+-tenpura wo tsukuru toki, abura ga oosugiru to, aburappoku narimasu kara ...
+-kokoa mizu wo iresuguiru to, mizuppoku narimasu
+
+
+Listening 1:
+
+1. ninki na resutoran ni imasu
+2. pizza to pasta desu. soujiki itaria ryori desu. 
+
+
+-paku san no chuumon sita no ha a. PIZZA
+
+-natarii san no chuumon sita no ha d. PASTA
+
+//express what kind of smell or taste the speaker sensed.
+
+nioi GA SIMASU
+aji GA simasu
+oto GA simasu
+koe GA simasu
+
+Convversation 1:
+
+1.
+A: ii nioi ga simasu ne.
+B: piza desu yo. yakitate desune. oishi sou desu ne.
+
+2.
+A: nanika wo agete iru oto ga simasu ne.
+B: tenpura desu yo. iroiro na yasai ga taberaremasu yo.
+
+3.
+A: kono shoku pan amai aji ga simasu ne.
+B: hachimitsu desu yo. kiji ni hachimitsu ga haite imasu kara.
+
+4.
+A: genkan de dareka no koe ga simasita ne.
+B: piza no haitatsu no hito desu yo. sakki chuumon simasita kara
+//genkan = uchi no mae
+
+
+yoyaku wo toru no ga taihen datta DESHOU?
++= Hai, taihen desita
+-= iie, taihen de ha arimasen desita.
+
+Conversation 2:
+
+1.
+A: kono pasuta wo tabete mite kudasai. oishii deshou?
+B: hai, oishii desu ne. pasuta no katachi ga mezurashii desune.
+
+2.
+A: karai desune. kore ha tomuyamkun deshou?
+B: iie, tomyamkun de ha arimasen. sanraatan desu.
+
+3.
+A: ranchi ha dou desitaka? nichiyoubi ni itta ndeshou
+B: hai, ikimasita. resutoran ha totemo nigiyaka desita.
+
+4.
+A: chirashizushi deshou. iro ga kirei deshou?
+B: hai, kirei desune. takusan no GU ga karafuru desune.
+
+
+/*
+A: kono restutoran ha ninki desu yo.
+B: hai, ninki desune.
+A: nani wo chuumon simasita ka?
+B: Pizza desu yo.
+
+A: ii nioi ga simasu ne.
+B: hai, yakitate desune. oishi sou desu ne.
+
+A: kono piza wo tabete mite mo ii desu ka. oishii desuka?
+B: hai, oishii desune. piza no aji ga mezurashii desune.
+*/
+
+
+//
+kyou, tomodachi to resutoran ni ikimasita. watashi ha karage wo chuumon simasita. karage ha ii nioi ga simasita. abura no aji ga simasita. oishikatta desu. tomodachi ha tenpura wo chuumon simasita. tomodachi ga chuumon sita tenpura ga aburappoi nioi ga simasita. kawaii sou desune.
+//
+
+
+
+
+
+
+
+
+
+
+
+
+

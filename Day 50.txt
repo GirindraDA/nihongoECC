@@ -1,0 +1,148 @@
+Vocabulary :
+
+toufu
+haku sai
+negi = loncang
+komatsu na = sawi
+gureppu frutsu
+
+shujin
+go shujin
+peesuto
+roosuto chikin
+
+shiboru
+
+atatakai
+nameraka = smooth
+kirei
+sakki = just now, a shrt time ago
+
+Listening 1:
+
+1. aratte
+2. totte kudasai
+
+
+(polite)
++ mazu kono yasai wo aratte kudasai
+(casual)
++ mazu kono yasai wo aratte
+
+
+niku wo yaku -> yaite
+yasai wo arau -> aratte
+yasai wo kiru -> kite
+hi wo tsukeru -> tsukete
+
+
+Listening 2:
+
+1. sukiyaki wo tsukurimasu.
+-ninjin wo aratte kirei ni site kudasai.
+- tofu ha sakki kita tokoro desu.
+- hakusai 
+- negi
+
+2. makizushi wo tsukutte imasu.
+
+/*
+Ninjin ha ARATE kirei ni shimasu. sorekara USUKU kirimasu. Julia-san ha tofu wo sakki KITTA tokoro desu. Hakusai ha korekara KIRU tokoro desu. Takahashi-san ha korekara negi wo nabe ni IRERU tokoro desu. Takahashi-san no go shujin ha ima makizushi wo TSUKUTTE IRU tokoro desu.
+*/
+
+
++ Ninjin wo MOU sukosi usuku simiasu.
+
++ Ninjin wo MOTTO usuku simasu.
+
+? Ninjin wo MOU sukoshi usuku simasu KA
++= hai
+-= iie
+
+Conversation 1:
+
+1.
+A: kono ninjin, dou simasu ka?
+B: aratte, kirei ni site kudasai
+A: wakarimasita. toufu ha mou sukoshi chisaku simasu ka?
+B: hai, onegai simasu.
+
+2.
+A: kono kabocha ha dou shimasu ka?
+B: densi renji de atatamete, yawarakaku site kudasai
+A: wakarimasita. kabbeji ha mou sukoshi komakaku simasu ka?
+B: hai, onegai simasu
+
+3.
+A: kono komatsu na ha do simasu ka?
+B: burenda wo tsukatte, peesuto ni site kudasai.
+A: wakarimasita. jyaga imo ha mou sukoshi nameraka ni simasu ka?
+B: hai, onegai simasu.
+
+4.
+A: kono gureppu frutsu ha dou simasuka?
+B: shibote jyuzu ni site kudasai.
+A: wakarimasita. gyunyuu ha mou sukoshi atatakaku simasu ka?
+B: hai, onegai simasu       
+
+
+
+KOREKARA, hakusai wo KIRU TOKORO desu.
+
+IMA, hakusai wo KITTE IRU TOKORO DESU
+
+SAKKI, hakusai wo KITTA TOKORO desu
+
+Conversation 2:
+1.
+A: mou, toufu to hakusai wo kirimasita ka?
+B: toufu ha sakki kitta tokoro desu. hakusai ha korekara kiru tokoro desu.
+
+2.
+A: mou, rosto chikin to shichuu wo atatamemasita ka?
+B: rosto chikin ha ima atatamete iru tokoro desu. shichuu ha sakki atatameta tokoro desu.
+
+3.
+A: mou, nabe ni shoyu to sato wo iremasita ka?
+B: shoyu ha korekara ireru tokoro desu. sato ha sakki ireta tokoro desu.
+
+4.
+A: mou, teberu ni sara to hashi wo narabemasita ka?
+B: sara ha sakki narabeta tokoro desu. hashi ha korekara naraberu tokoro desu.
+
+
+
+/*
+aki-san to noa-san ha suki yaki wo tsukutte imasu. noa-san ha niku wo aratte kirei ni sita tokoro desu. korekara jyagaimo wo muite, kiru tokoro desu. ima kara tonari no heya ni ikimasu. aki-san no okaa-san ga imasu. makizushi wo tsukute iru tokoro desu. oishii desu. hayaku tabetai desu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
