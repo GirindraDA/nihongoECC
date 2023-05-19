@@ -1,0 +1,121 @@
+speedMaster_N4:
+
+//noun + chuu ni
+- natsu yasumi chuu ni ikkai aimashou.
+-jyugyou chuu ni jisin ga arimasita.
+
+//Verb (jisho kei) + tsumori desu
+//Verb (nai kei) + tsumori desu
+- dame dattara, mou ikkai shiken wo ukeru tsumori desu.
+-okane ha zenzen tsukawani tsumori desu
+
+// Verb (te kei) iru + uchi ni
+- terebi wo mite iru uchi ni nete simatta
+- aruite iru uchi ni onaka ga suite simatta
+
+// Verb (futsu kei) + sou desu.
+// i A (futsu kei) + sou desu.
+// na A (futsu kei) + sou desu.
+// Noun (futsu kei) + sou desu.
+- shuun kun, mata chikoku sita sou desune.
+- chichi ha haha ga hatsukoi no aite da sou desu.
+
+// noun + bakari
+// verb (te kei) + bakari imasu
+- chocoreeto bakari tabete iru to futorimasu yo.
+
+
+Vocabulary:
+
+karorii = kalori
+tanpaku shitsu = protein
+shisitsu = lemak
+tou shitsu = a carbohdrytae
+enbun = salt
+
+tansuika butsu
+jyuunban = urutan
+houhou = a way, method
+choumi ryou
+takitate 
+jyouon
+suupu
+ryuu = a reason
+koto = a thing
+
+toru = mengambil 
+futoru = gendut
+musu 
+herasu = to decrease
+tamesu = to try out
+fukumu = to include
+kaeru = change
+eiyou wo toru
+
+chouri
+chouri suru
+takai = 
+hikui = 
+tatoeba = for example
+tsugi ni = next
+onaka ga ippai desu
+karada ni ii = good for health
+
+
+//mune niku(145kcal) < momo niku(204kcal)
+
+mune niku HA momoniku HODO karorii ga takaKUNAI desu.
+
+
+//yude tamagou < tamago yaki (mendou)
+
+yude tamago HA tamago yaki HODO tsukuru no ga mendou DE HA ARIMASEN.
+
+- kobayashi no ban gohan ha ookawa no ban gohan hodo karorii ga takakunai desu
+
+- kobayashi no ban gohan ha ookawa no ban gohan hodo tanpaku shitsu ga ookunai desu.
+
+
++ kawa wo TOTTE tori niku wo chouri simasu.
++ mayoneezu wo kakeNAIDE sarada wo tabemasu.
+
+conversation 1:
+
+1.
+A: kenkou no tame ni, shokuji no toki nanika ki wo tsukete imasuka?
+B: mayonezu wo kakenaide sarada wo taberu you ni site imasu. mayonezu ha karorii ga totemo takai desu yo.
+A: so desune. hoka ni nanika arimasuka?
+B: unn, tori niku ha kawa wo totte tabemasu.
+
+2.
+A: kenkou no tame ni, shokuji no toki nanika ki wo tsukete imasuka?
+B: yoku kande gohan wo taberu you ni site imasu. hayaku onaka ga ippai ni narimasu yo
+A: sou desuka. hoka ni nanika arimasuka?
+B: unnn, toosuto ha bataa wo nuranaide tabemasu.
+
+3.
+A: kenkou no tame ni, shokuji no toki nanika ki wo tsukete imasuka?
+B: sato wo irenaide yogurto wo taberu you ni site imasu. karorii ga hikuku narimasu yo.
+A: sou desuka. hoka ni nanika arimasuka?
+B: unnn, gohan ha jyouon ni site tabemasu.
+
+4.
+A: kenkou no tame ni, shokuji no toki nanika ki wo tsukete imasuka?
+B: soosu wo kakenaide medamayaki wo taberu you ni site imasu. soosu ha enbun ga takai desu yo.
+A: sou desuka. hoka ni nanika arimasuka?
+B: uunnnn, butaniku ha yudete tabemasu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
