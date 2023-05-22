@@ -1,0 +1,96 @@
+Vocabulary:
+
+nenrei = age
+sedai = generation
+chuushoku = launch
+choushoku = sarapan
+karage
+agemono 
+teishoku = set menu
+nimono = 
+nenmatsu nenshi = akhir taun - awal tahun
+washoku = 
+teiban =
+hanbun = setengah
+igai = excluding, except
+senpai
+ajitsuke
+tougarashi
+mukashi = the olden days
+hontou = truth
+
+chigau = to be different
+
+karai = dry (wine)
+amai
+sugu = immediatly
+yaku = sekitar
+~ dai = a counter fo age
+
+aru = acertain
+souieba = omong-omong
+
+
+
++ kuni NI YOTTE, nenmatsu nenshi ni taberu mono GA CHIGAIMASU
+
++ otoko no hito/seibetsu NI YOTTE, sukina tabemono GA CHIGAIMASU
+
++ nenrei/sedai NI YOTTE, ryouri wo suru toki, miru mono GA CHIGAIMASU/ IROIRO ARU
+
+
+Conversation 1:
+
+1.
+A: firipin de ha, choushoku ni nani wo yoku tabemasuka?
+B: tapusirogo to iu niku ryouri wo yoku tabemasu
+
+2.
+A: taiwan de ha, ban gohan ni nani wo yoku tabemasuka?
+B: yuurinchi to iu tori ryouri wo yoku tabemasu
+
+3.
+A: nihon de ha, oiwai no hi ni nani wo yoku tabemasuka?
+B: sukiyaki to iu nabe ryouri wo yoku tabemasu
+
+4.
+A: hangaria de ha, chirstmasu ni nani wo yoku tabemasuka? 
+B: haraasuree to iu sakana ryouri wo yoku tabemasu.
+
+
+Conversation 2:
+
+1.
+A: mukashi, nattou ga taberaremasen desita. oishikunai to omoimasta.
+B: sou nandesune. ima ha dou desuka?
+A: ima ha taberareru you ni narimasita. nattou ha karada ni ii to omoimasu. 
+
+2.
+A: mukashi ha, ryouri ga tsukuremasen desita. ajitsuke ga muzukashii to omoimasita.
+B: sou nandesune. ima ha dou desuka?
+A: ima ha tsukureru you ni narimasita. demo kantan de ha nai to omoimasu.
+
+3.
+A: mukashi ha, nihonshuu ga nomemasen desita. nihonshuu ga karai to omoimashita.
+B: sou nandesune. ima ha dou desuka?
+A: ima ha nomeru you ni narimasita. amai nihonshuu ha nomiyasui to omoimasu.
+
+4.
+A: mukasi ha, sundoubu ga taberaremasen desita. tougarashi ga karai to omoimasta.
+B: sou nandesune. ima ha dou desuka?
+A: ima ha taberareu you ni narimasita. tamago wo ireru to karakunai to omoimasu.
+
+/*
+indonesia no choushoku ha bubur ya soto, nasi kuning ga teiban da sou desu. watashi ha mai asa okita ato de choushoku ni soto wo tabete imasu. zenbu taberaremasu yo. oishii to omoimasu. soto ha, indonesia no teiban no choushoku menu da to omoimasu. soto to iu  suppu ryouri ga teiban desu ga, soto igai no ryouri taberu hito mo takusan imasu.
+*/
+
+
+
+
+
+
+
+
+
+
+
