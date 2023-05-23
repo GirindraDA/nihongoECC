@@ -1,0 +1,115 @@
+Vocabulary:
+
+
+sekai isan = world heritage
+kikou = climate
+kouyou = autum colors
+machinami = townscape
+manjyuu = roti makanan jepang
+hakubutsukan = museum
+kuruujingu =
+puurusaido =
+bukka = prices of commodities
+
+nonbiri suru =
+jyunbi
+jyunbi suru = mempersiapka
+shoukai
+shoukai suru = memperkenalkan
+
+urayamashii =  iri
+shouchuu =
+niku jyaga =
+chokochippu kukki =
+sumuujii
+daisuki
+mendou
+sin~ = a new
+
+
+Listening 1:
+
+1. miraremasu
+2. oyogeru kana
+3. oyogenai
+
+
++ doubutsu en de panda GA MIRAREMASU yo.
++ umi de oyogeru KANA
+
+/*
+sashimi wo taberareru
+shochuu wo nomeru
+onsen ni hairareru
+omiyage wo kaeru
+skiii wo dekiru
+niku wo taberareru
+sashin ga toreru
+keshiki ga miraremasu
+hakubutsukan ni ikeru
+yuenchi ni ikeru
+*/
+
+Conversation 1:
+
+1.
+A: gifu ken ha, sirakawa gou mo aru si, keshiki mo kirei da si, tabemono mo oishii desu.
+B: tanosi sou desune. itte mitai desu.
+
+2.
+A: taiwan ha,  bukka mo takakunai shi, yuumei na hakubutsukan mo aru shii, hito mo sinsetsu desu.
+B: ii desune. itte mitai desu.
+
+3.
+A: ehime ken ha, mikan gari mo dekiru shi, matsuyamjyou mo aru shi, dougo onsen mo arimasu.
+B: ii desune. itte mitai desu.
+
+4.
+A: oosutoraria de, operahauzu mo mita shi, koara to sashin wo totta shi, daibingu mo simasita.
+B: urayamashii desu.
+
+
+
+Conversation 2:
+
+1.
+A: takayama ni ikimasenka?
+B: ii desune. jikan ga attara, omiyage ga kaemasuka?
+A: ee, kaemasuyo. sarubobo ga yumei desu.
+
+2.
+A: ashita kuruujingu wo simasenka?
+B: ame dattara dou simasuka?
+A: jyaa, suizokukan ni ikimashou. hoteru no chikaku ni ooki suizokukan ga arimasu yo.
+
+3.
+A: sorosoro hiru gohan wo tabemasenka? 
+B: sou simashou. karai mono ga suki dattara thai ryouri ni simasenka?
+A: ii desune. thai ryouri ga daisuki desu.
+
+4.
+A: ashita hoteru de nonbiri simasenka?
+B: sou simashou. tenki ga yokattara hoteru no puuru saido de nonbiri simasenka?
+A: ii desune. puuru saido kara mieru umi ha kirei desuyo.
+
+
+/*
+kondo, konishi san to gifu ken ni ikimasu. gifu ken ha keshiki mo ii si, tabemono mo oishiii desu. mazu, sirakawa gou de, gashoutsukuri no ie wo mimasu. sore jara, haikingu wo simasu. aki ha kikou mo ii shi, sore ni kouyou mo kirei desu. gifu ken ni ha, gero onsen mo arimasu. haikingu no ato de, onsen ni haite, haikingu no tsukare wo torimasu. saigo ni takayama ni mo ikimasu. jikan ga attara, omiyage wo kaimasu. osusume no omiyage ha kawaii neko no manjyuu to saru bobo desu. ryoukou ni iku no ga totemo tanosshimi desu.
+*/
+
+
+raishuu, tomodachi to yamagata ken ni ikimasu. yamagata ken ha keshiki mo ii shi, tabemono mo oishii desu. mazu, arashi yama de, takusan tera wo mimasu. sore kara, sakura wo mimasu. yamagata ken ni ha yuumei na onsen mo arimasu. onsen kara keshiki ha totemo kireii desu yo. saigo ni yamadera ni mo ikimasu. jikan ga attara, umi no keshiki wo torimasu. ryouokou ni iku no ga totemo tanoshimi desu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
