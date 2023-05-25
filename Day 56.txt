@@ -1,0 +1,121 @@
+Vocabulary:
+
+kaisan butsu
+basho
+chizu
+eki mae
+yaki niku
+rotenburo
+arerugii
+eakon
+tei en
+
+okuru
+tsuku
+jyunbi ga dekiru = to be rady
+yoyaku 
+yoyaku suru = memesan 
+shuupatsu
+shuupastu suru = berangkat
+
+akarui = bright
+pittari = ideal, perfecly suited
+
+kashikomarimasita
+mochiron desu
+
+<---   --->
+
++ asado san ha MADA kohii wo nonde imasu
+
++ komori san ha jyuunbi GA DEKIMASITA
+
++ keito san mo robii de matte imasu
+
++ ben san ha mada shawaa wo abite imasu
+
+Listening 1:
+
+1. asaichi ni ikimasu.
+2. iie, wakarimasen
+
+Listening 2:
+
+1. kaibutsu - sinzen de oishii 
+ 
+2. gyuutan - osusume no tabemono
+
+3. sasakamaboko - omiyage ni pittari
+                                                                                                                                                                                                                                                                                                     4. akiniku[tantan] = yasukute oishiii
+
+(polite)
++ asichi no basho ga wakarani NODE, chizu wo kaite kudasai.
+
+(more polite)
++ asichi no basho ga wakarani NODE, chizu wo kaite ITADAKEMASENKA.
+
++= hai, mochiron desu
++= kashi komarimasita
+
+Conversation 1:
+
+1.
+A: asaichi no basho ga wakarani NODE, chizu wo kaite ITADAKEMASENKA
+B: hai, mochiron desu
+
+2.
+A: rotenburo ga suki na node, rotenburo ga aru ryokan wo yoyaku site itadakemasenka 
+B: kashi komari masita
+
+3.
+A: samui node, eakon no tsukai kata wo oshiete itadakemasenka
+B: kashi komari masita
+
+4.
+A: ebi no arerugii na node, shokuji no menyuu wo kaete itadakemasenka
+B: hai, mochiron
+
+Conversation 2:
+
+1.
+A: asa gohan wo tabetara, sugu dekakemasu
+B: doko ni ikimasu ka?
+A: asaichi ni ikimasu
+
+2.
+A: matsushima ni tsuitara, hiru gohan wo tabemasu
+B: nani wo tabemasu ka?
+A: kaki don wo tabemasu
+
+3.
+A: hoteru ni tsuitara, yukata wo erabimasu
+B: donna yukata wo erabimasu ka?
+A: aoi yukata wo erabimasu.
+
+4.
+A: ban gohan wo tabetara, sanpo wo shimasu.
+B: doko sanpo simasu ka?
+A: ryokan no tei en wo sanpo simasu.
+
+
+
+/*
+A: asa gohan wo tabetara, oosaka ni ikimasu.
+B: doko ni ikimasu ka?
+A: oosaka jyou ni ikimasu.
+
+A: oosaka jyou no basho ga wakarani NODE, chizu wo kaite ITADAKEMASENKA
+B: hai, mochiron desu
+*/
+
+<!--
+ashita ha shigoto wo sitara, aomori ni ikimasu. aomori de, yamada koen ni ikimasu. hoka ni aomori de yamadera ya aomori towaa ga yuumei da sou desu. yamadera wa yuumei na tera node, soko de takusan shashin wo torimasu. aomori towaa no keshiki wa totemo kireii desuyo. totemo tanoshimi desu.
+-->
+
+
+
+
+
+
+
+
