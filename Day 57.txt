@@ -1,0 +1,160 @@
+Vocabulary:
+
+ichido = once
+meibutsu = makanan terkenal
+meisho = famous tempat
+ryoukin = fee
+eigyou jikan = waktu(bisnis) mulai
+teikuu bi = regular holiday
+nenjyuu mukyuu = open everyday of the year
+jyosei = cewek
+kyaku = pelanggan
+ippan = feneral, ordinary
+nawa = tali
+bessou = holiday house
+hajime = first, a start
+gyouji = event
+
+komu = to be crowded
+tanoshimu = to enjoy
+tsukuru = to make, to build
+maneku
+tori kowasu = to demolish (menghancurkan)
+okonau = to carry out, to hold
+oreru = patah
+tateru = meletakkkan
+tsukeru = to stick
+
+eigyou 
+eigyou suru = melakukan bisnis
+kaien
+kaien suru = opening of park
+okawari
+okawari suru = imbuh makan
+sagyou
+sagyou suru = manufacturing
+futatabi = again, once more
+zen ~ = all ~
+~ saki = a destination
+~ nasi = without ~
+
+
+
++ nichiyoubi DAKE eigyou jikan ga chigaimasu.
++ teishouka ha DOREDEMO 800en desu.
++ tenma ha itsu DEMO eigyou site imasu.
++ kono okashi ha doko DEMO kaemasu.
+
+
++ dorinku ga 1PAI saabizu desu.
+
+1 = ippai
+2 = nihai
+3 = sanbai
+4 = yonhai
+5 = gohai
+6 = roppai
+7 = nanahai
+8 = hachihai
+9 = kyuuhai
+10 = jyuppai
+
++ omiyage zenpin 50en biki desu
+~en biki = discount
+
+
+
+
++ omiyage tenma ha itsudemo aite imasu
++ mokuyobi dake kuro manjyuu hanbai nasi
+
++ kayobi ha omiyage dake zzenpin 50en biki desu
+
++ sakura teien ha itsudemo aite imasu.
+
++ getsuyoubi dake kodomo ga muryoo desu
+
+
+
+Reading 1:
+
+1. nihon de yuumei na teien
+2. macha wo nondari snack wo taberu koto ga dekimasu
+
+
++ kenroku en HA 1676 nen ni tsukuRAREMASITA.
+
++ kenroku en HA maeda tsunanori NI YOTTE tsukuRAREMASITA.
+
+
+
+tipe 1:
+kaku -> kaKARERU
+iu -> iWARERU
+
+tipe 2:
+miru -> mirareru
+
+tipe 3:
+kuru -> korareru
+suru -> sareru
+
+
++ yuki tsuri no sagyou ga mirareru KOTO GA ARIMASU.
+
++ kondeiru to, sugu naka ni haireNAI KOTO GA ARIMASU.
+
++ yoru NI HA raitoappu sareta keshiki wo tanoshimu koto ga dekimasu
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+tsukuru -> tsukurareru
+tsukau -> tsukawareru
+tateru -> taterareru
+kaien suru -> kaien sareru
+
+
+Conversation 1:
+
+1.
+A: kenroku en ha itsu tsuku raremasita ka
+B: 1676 nen ni tsuku raremasita.
+A: kenroku en de nani ga dekimasu ka?
+B: siguretei de, macha wo nondari, wagashi wo tabetari suru koto ga dekimasu. kondeiru to, sugu ni naka ni hairenai koto ga arimasu.
+
+2.
+A: nebuta matsuri ha doko de okonawaremasu ka?
+B: aomori ken de okonawaremasu                 
+A: nebuta matsuri de nani ga dekimasu ka?
+B: iroiro na nebuta ga miraremasu. ippan no hito mo matsuri ni sanka dekiru koto ga arimasu.
+
+3.
+A: monariza ha dare ni yotte, kakaremasita ka?
+B: reonardo da binchi ni yotte kakaremasita.
+A: doko de miraremasu ka?
+B: ruuburu bijutsukan de miraremasu. demo, hayaku ikanai to mirarenai koto ga arimasu.
+
+4.
+A: kumamotojyou ha itsu tateraremasita ka?
+B: 1607 nen ni tateraremasita.
+A: kumamotojyou de nani ga dekimasu ka?
+B: tenshukaku kara kumamoto shi no keshiki ga miraremasu. yoroi wo kita hito ni aeru koto ga arimasu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+Note :
+- A is 1
+- B is 2
+- C is 3
+- D is 4
+
+Mondai 1:
+
+1. A
+2. D
+3. A
+4. B
+5. D
+6. C
+7. B
+8. D
+9. A
+10. C
+11. B
+12. C
+13. A 
+14. D
+15. C
+
+Mondai 2:
+
+16. C
+17. C
+18. D
+19. B
+20. A
+
+Mondai 3:
+
+21. D
+22. B
+23. C
+24. C
+25. A
+
+Mondai 4:
+
+26. B
+27. D
+28. A
+29. D
+
+Mondai 5:
+
+30. C
+31. B
+32. D
+33. C
+
+Mondai 6:
+
+34. A
+35. B
