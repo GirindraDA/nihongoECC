@@ -1,0 +1,198 @@
+Vocabulary:
+
+jimoto =  hometown
+tabi = 
+nagame = pemandangan
+shashou = train konduktor
+michi nori =
+sizen = alam
+hyouban = rating
+chaamu
+omikuji
+setto
+
+keri = a return, coming back
+yohou = ramalan
+gaidobukku = guide book
+choujyou = puncak gunung
+
+omikuji wo hiku
+susumeru = recommend
+kanjiru = to feel
+urikireru = sold out
+gakkari suru = dissapoint
+
+chuusha
+chuusha suru
+settei
+settei suru
+omairi
+omairi suru = to pray in shrine
+
+saikou
+yutaka
+zannen = sayang sekali
+yukkuri = slowly
+sugoku = very, really
+
+
+Listening 1:
+
+1.
+to no
+ni
+shoukai site moraimasita
+
+2.
+de no
+kara no
+ni
+totte moraimasita
+
+3.
+made no
+ni
+kaite moraimasita
+
+4.
+e no
+ni
+susumete moraimasita
+
+/*
+The particle "NO" is preceded by different particle to clarify or emphasize the meaning of the noun that follows
+*/
+
++ watashi HA jimoto no hito NI osusume no mise wo shoukai siTE MORAIMASITA
+
+
+1.
+A: kare to no shokuji wa dou desita ka?
+
+B: totemmo oishii katta desu.
+
+tomodachi ni oshiete moratta ninki na sushii resutoran
+
+2.
+A: kazoku to no ryokou ha dou desita ka
+
+B: tanoshikatta desu
+
+deatta hito ni shashin wo totte moraimasita
+
+3.
+A: hoteru made no michi nori ha dou desita ka
+
+B: muzukashikatta desu.
+
+jimoto no hito ni ikikata wo oshiete moraimasita.
+
+4.
+A: ryoushin e no omiyage ha nani wo kaimasita ka
+
+B: manjyuu wo kaimasita.
+
+ten in ni susumete moraimasita
+
+
+Reading 1:
+
+1.
+kono chamu 
+1nen inai
+=> tsubaki koimikuji
+
+2.
+sumaho no 
+homu gamen
+=> kanae daki
+
+3.
+sawaru suru
+=> shoufuku no tama
+
+
+hoteru no hito ni kiita toori desita
+
+sizen ga yuta kana jinjya ha hyouban no toori desita
+
+
+Conversation 1:
+
+1.
+A: tsubaki ookami yashiro ha sizen ga yuta kana jinjya da to kikimasita. hyouban doori desita.
+B: yokatta desune. watashi mo itte mitai desu
+
+2.
+A: ryokou chuu ha zutto ii tenki desita. yohou doori desita
+B: ii desune, watashi ga iku toki ha itsumo ame desu.
+
+3.
+A: tomata hoteru ha heya ga kirei de sabizu mo yokatta desu. tomodochi ga itta tori desita 
+B: yokatta desune, watashi mo tomatte mitai desu
+
+4.
+A: suizokukan ha iruka shoo ga totemo tanoshikatta desu. gaido bukku de yonda doori desita
+B: ii desune, watashi ga mita toki mo omoshirokatta desu.
+
+
++ sizen ga kanjirareTE totemo kimochi ga yokatta desu.
++ miko no chamu ga nakute zannen desita.
+
+
+Conversation 2:
+
+1.
+A: tori meshi ha taberaremasita ka?
+B: hai, taberarmasita. uri kireru mae ni taberarete totemo ureshikatta desu.
+
+2.
+A: fuji san no choujyou de goraikou ga miraremasita ka?
+B: iie, ame ga futte miraremasen desita. go raikou ga mirarenakute gakkari simasita.
+
+3.
+A: omamori wo kaemasita ka?
+B: iie, jikan ga nakute kaeraremasen desita. omamori ga kaenakute zannen desita
+
+4.
+A: jinjya de yukkuri omairi ga dekimasita ka
+B: hai, dekimasita. hito ga sukunakatta node, yukkuri omairi dekite yokatta desu. 
+
+<!-- -->
+
+A: nihon ni ryokou itta toki ha zutto ii tenki desita. tenki yohou doori desita
+
+B: ii desune, watashi ga iku toki ha itsumo ame desu.
+
+B: soko de nani wo simasita ka?
+
+A: oishii mono wo takusan tabemasita.
+
+B: eeto, soko de sushi ha taberaremasita ka?
+
+A: hai, taberarmasita. sushi ya wa totemo ninki dakara uri kireru mae ni taberarete totemo yokatta desu.
+      
+<!-- -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
