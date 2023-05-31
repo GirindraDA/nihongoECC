@@ -1,0 +1,111 @@
+Vocabulary:
+
+
+yachin = rent
+shinchiku = new building
+kagu = furniture
+tegoro = reasonable
+
+hikkosi
+hikkosi suru = pindah rumah
+tsuukin
+tsuukin suru = commuting to work
+
+
+Listening 1:
+
+1. a. anna => asoko
+2. d. konna => koko
+
+
++? KONNA tsuke ha dou? ookikute, hikidashi ga takusan aru yo.
+
++? ANNA tsuke ha dou? ookikute, hikidashi ga takusan aru yo.
+
+
+Listening 2:
+
+a. sukoshi takai,
+chikai
+
+b. yasui,
+eki kara aruite 30pun gurai kakaru
+
+c. yasui kedo furusou 4man en,
+chikai
+
+
++ yachin ha sukosi takai yo. DEMO, eki kara chikai yo.
+
+(formal)
++ yachin ha sukoshi takai KEDO, eki kara chikai yo.
+(polite)
++ yachin ha sukosi taki desu KEDO, eki kara chikai desu.
+
++ eki kara aruitr 30pun gurai kakaru SHI, tooi ne.
+
++ yachin MO yasui SHI, eki kara MO chikai SHI, koko ni suru yo.
+
+
+Conversation 1:
+
+1.
+A: kono heya ha dou? yachin ha sukoshi takai kedo, eki kara chikai yo.
+B: mou sukoshi yasui tokoro ga ii na
+A: jyaa, kono heya ha? yachin ga yasui yo.
+B: hontou da. demo, eki kara tooi shi, tsuukin ni fuben da na.
+
+2.
+A: kono manshion ha dou? shinchiku jyanai kedo heya ha hiroi yo.
+B: atarshii manshion ga ii na.
+A: jyaa, kono manshion ha? atarshii yo.
+B: hontou da. atarashi shi koko ni suru yo.
+
+3.
+A: kono apatoo ha dou? kagu ga aru kedo eakon ga nai yo.
+B: eakon ga aru apatoo ga ii na.
+A: jyaa, kono apatoo ha? eakon ga aru yo
+B: hontou da. eakon ga aru shi koko ni suru yo
+
+4.
+A: kono ie ha dou? amari osyare jyanai kedo yachin ha tegoro da yo.
+B: mou sukoshi osyare na ie ga ii na.
+A: jyaa, kono ie ha? osyare da yo.
+B: hontou da. demo, chikaku ni supaa ga nai si kaimono ni fuben da na
+
+
+/*
+watashi wa hikkoshi sitai desita.
+tomodachi to isshoni, intaneto de atarashii apatoo wo sagashimasita. watashi ha suppa kara chikakute, yachin ga yasui apatoo ga sumitai desu. hitotsu me ni mita apatoo ha, supaa kara chikai kedo, yachin ga taka sugimasita. futatsu me ni mita apatoo ha, yachin ha yasukute supaa kara aruite 10pun kakaru apatoo desita. sono ryu kara soko ni hikosshi simasita.
+jibun ga sumitai apatoo wo sagasu koto ha kantan desuyo ne.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

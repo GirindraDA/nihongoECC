@@ -1,0 +1,101 @@
+Vocabulary:
+
+kaaten = curtain
+atari = a neighborhood, nearby
+taiyou = matahari
+hanabi taikai
+nedan = harga
+hatake = field
+kaze = wind
+gaikan = outward appearence
+tokoro = a point, a thing
+minami = south
+hi atarai = exposure to the sun
+eria = area
+jiki = a period, a phase
+kyuujyou = baseball stadium
+
+kini iru = to be pleased with (suka)
+kini naru = penasaran
+hanareru = distance
+shouutai
+shoutai suru = invitation
+keiyaku
+keiyaku suru = contract
+
+tsuyoi
+urusai
+sore ni sitemo = even so, nevertheless
+~ chiku = ~years since construction
+~ muki = facing~ (menghadap)
+yoru osoku = late at night
+
+denki wo kesu = mematikan lampu
+
+
++ haru ni nareba, sakura ga miemasu.
++ natsu ni nareba, hanabi ga miemasu.
++ aki ni nareba, momiji(kouyou) ga miemasu.
++ fuyu ni nareba, yuki ga miemasu.
+
+
+Listening 1:
+
+1. atami no besso desu
+2. atami kara hanabi kai tai mirareu kamosirmasen
+
+1. nagame = YOI
+- atami no hanabi taikai ga (mirareru)kamosiremasen.
+2. nedan = YOI
+- sonna ni (takakunai) noni hatake mo onsen mo arimasu
+3. kaimono = YOKUNAI
+- eki kara (tooi) kara, kaimono ga (taihen) kamosiremasen
+4. tenki = YOKUNAI
+- fuyu ha samuku (kanjiru) kamosiremasen.
+
+
+Conversation 1:
+
+1.
+A: koko ha nedan ha sonna ni takakunai noni, hatake mo onsen mo atte ii desune.
+B: hai, sou desune. demo, eki kara tooi kara, kaimono ga taihen kamosiremasen ne.
+
+2.
+A: kono ie ha chiku 30 nen na noni, daikan mo heya mo kirei desune
+B: hai sou desune. demo, minami muki dewa nai kara, hi atari ga yokunai kamosiremasen
+
+3.
+A: koko ha ninki na eria na noni, yachin ga yasui desune. 
+B: hai, sou desune. ima ha gakusei ga heya wo sagasite iru jiki dakara hayaku keiyaku sita hou ga ii kamosiremasen ne.
+
+4.
+A: kyuujyou kara hanareta tokoro  aru noni ouen no koe ya otto ga yoku kikoemasune.
+B: hai sou desune. mawari ga shizuka dakara yoru osoku made siai ga attara urusaku kanjiru kamosiremasen
+
+
+/*
+Senshuu, sendai ni bessho no kengaku ni ikimasita. umi no miete keshiki ga kirei desita. haru ni nattara, besso kara sakura ga mirareru kammosiremasen. tomodachi to beranda de hanami wo sitai desu. kengaku sita besso ha, nedan ha sonna ni takakunai noni, umi mo sakura mo miemasu. sorekara, besso ni itta hi ha harete sakura mo takusan sakimasita. aki ni nattara momiji wo mirareru kamosiremasen.
+*/
+
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
