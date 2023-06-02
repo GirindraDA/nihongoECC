@@ -1,0 +1,129 @@
+Vocabulary:
+
+naiyou = content
+saido = again, a second time
+tsugou = circumstances, convenience
+toujitsu =
+genkin =
+
+shiharau =
+mitsukaru = menemukan
+kawaru = to change
+shiraseru =
+hanareru =
+toiawaseru =
+nareru = to get used to, terbiasa
+hajimeru = to start
+
+renraku
+renraku suru = menghubungi
+kakunin
+kakunin suru = mengecek
+nyuugaku
+nyuugaku suru = awal masuk sekolah
+sitsumon
+sitsumon suru = bertanya
+kyanseru
+kyanseru suru = meng-cancel
+jikke          n 
+jikken suru =
+
+omoshiroi
+sabishii = kesepian
+jiyuu = bebas
+tokorode = by the way
+~ bi = the day
+~ sama = mr, mrs, ms
+
+
+Reading 1:
+
+
+(GO) yoyaku arigatou gozaimasu.
+(O) namae ya (O) hikkoshisaki no (GO) jyuushou wo saido.
+
+raishuu, danbooru bako wo (O TODOKE SIMASU).
+(GO) tsugou ga ii jikan wo (GO RENRAKU KUDASAI).
+
+tsugi ni, ryoukin desu ga, toujitsu sutafuu ni gen kin de(O SHIHARI KUDASAI).
+(GO) yoyaku no kyanseru ha, (O) hikkosi yoteibi no 3ka mae made ni onegaisimasu.
+
+(O)hikkoshi yoteibi no 1shuukan mae ni kakunin no meerru wo (O OKURI SIMASU).
+mata, jikan sitei ga nai (GO) yoyaku na node. hikkoshi sagyou wo hajimeru jikan mo (GO RENRAKU SIMASU).
+
+gofumei na ten ha, denwa ka meeru de (O TOIAWASE KUDASAI).
+
+akaran hikkosi sentaa-
+TEL : xxxxxxxxxxxx
+MAIL : info@akaran.com
+
+
+Answer:
+- okurimasu
+- shiharaimasu
+- shirasemasu
+- todokemasu
+- renraku simasu
+- kakunin simasu
+- toiawasemasu
+
+
+Listening 1:
+
+1. Rajuu san no ie ni imasu.
+2. Rajuu san ga hikkoshi sita kara.
+
+Listening 2:
+
+1. maru		4. maru
+2. maru		5. batsu
+3. batsu		6. batsu
+
+
++ mae yori heya ga hiroku narimasita.
++ mae ha ie kara eki made too katta desu.
++ mae no ie ha yachin ga taka katta desu.
+
+
++ ookii kagu GA okeru YOU NI NARIMASITA.
++ hikkoshi sita BAKKARI desu.
+
+
+Conversation 1:
+
+1.
+A: koko de no seikatsu ha mou naremasitaka?
+B: iie, hikkoshi sita bakkari na node, mada narete imasen
+A: mae no ie yori heya ga hiroku narimasita ka?
+B: ee, ookii kagu ga okeru you ni narimasita
+
+2.
+A: atarashii shigoto ha dou desuka?
+B: senshuu, hajimeta bakkari na node mada wakarimasen
+A: ima no shigoto ha nan ji kara nan ji made desuka?
+B: 8ji kara 5ji made desu. mae no shigoto yori hayaku kaereru you ni narimasita
+
+3.
+A: daigaku ha mou naremasita ka?
+B: iie, sengetsu nyuugaku sita bakari na node mada narete imasen.
+A: nani wo senkou site imasu ka?
+B: kikai kougaku desu. omoshiroi jiken ga takusan dekiru you ni narimasita.
+
+4.
+A: hitori gurashi ha dou desuka?
+B: kono aida hajimeta bakkari na node mada wakarimasen
+A: kazoku to hanarete sabishii desuka?
+B: iie, jiyu na jikan ga moteru you ni narimasita.
+
+/*
+sengetsu, atarashii apatoo ni hikkoshi simasita. mae no yori daigaku kara chikaku narimasita. ima no ie ha amari ookikunai desu ga, suppa to konbini mo chikai kara benri da to omoimasu. atarashii seikatsu ha mada narete imasen ga, sugu naremasu.
+*/
+
+
+
+
+
+
+
+
+
