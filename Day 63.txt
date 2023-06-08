@@ -1,0 +1,109 @@
+Vocabulary:
+
+kinjyo = tetanga
+ooya =
+honsha =
+hikitsugi =
+nennai =
+purojekuto
+oshirase =
+omoide =
+
+okureru
+hensin
+hensin suru =
+aisatsu 
+aisatsu suru =
+happyou
+happyou suru =
+tantou
+tantou suru = being in charge of
+ansin 
+ansin suru =
+kaisi
+kaisi suru =
+kekkon
+kekkon suru =
+
+kanashii
+jitsu ha = to be honest
+naka naka
+shibaraku = for a while
+
+
+
++ watashi HA nakamura san NI tsuri ni tsurete ITTE ITADAKIMASITA
+
++ kinjyo no eki ya supaa no basho NI TSUITE oshiete itadakimasita.
+
+
+1. honsha de atarashii project wo tantou suru koto ni narimasu
+2. 
+3. 
+4. hikkoshi no jyuunbi ya shigoto no hisatsugi ga aru node.
+
+
+
+Conversation 1:
+
+1.
+A: raigetsu, tokyo ni hikkoshi suru koto ni narimasita.
+B: sou desuka. sabishiku narimasu ne
+
+2.
+A: raigetsu, kekkon suru koto ni narimasita
+B: yokatta desune. omedetou gozaimasu.
+
+3.
+A: nenmatsu nenshi ha kuni ni kaeranai koto ni simasita. 
+B: sou desuka. tsugi no yasumi ha kuni ni kaerettara ii desune
+
+4.
+A: kondo no kikaku kaigi de atarashii projektoo wo happyou sinai koto ni narimasita
+B: sou desuka. zannen desune
+
+
++ hikkoshi sitara, isshoni osake wo nondari, tsuri ni ittari dekiNAKUNARIMASU
+
+
+Conversation 2:
+
+1.
+A: raigetsu, tokyo ni hikkosi suru sou desune.
+B: hai. isshoni tsuri ni ikena kunarimasu. zannen desu.
+
+2.
+A: raigetsu, kekkon suru sou desune.
+B: hai, ishogashiku narimasu. shibaraku gym ni kayoenaku narimasu
+
+3.
+A: nenmatsu nenshi ha nihon ni iru sou desune.
+B: hai, kuni no tomodachi to count down no hanabi ni ikenaku narimasu.
+
+4.
+A: kondo no kikaku kaigi de atarashii projektoo wo happyou sinai sou desune.
+B: sou desu, nennai ni projekto ga kaishi dekinaku narimasu.
+
+
+/*
+daigaku de kenkyuu suru koto ni natte, raigetsu, sendai ni hikkoshi suru koto ni narimasita. murayama-san ni ima made hontou ni osewa ni natte arigatou gozaimasu. hikkoshi sittara isshoni eigakan ni eiga wo mitari, asobitari dekinaku narimasu. zannen desu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

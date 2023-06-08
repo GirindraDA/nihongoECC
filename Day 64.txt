@@ -1,0 +1,160 @@
+Vocabulary:
+
+raikyaku you = for visitor or guests
+kaigi sitsu = ruangan rapat
+kyuukei sitsu = break room
+isogi = urgent
+haifubutsu =
+shorui = dokumen
+houkokusho = report
+kopii youshi =
+purezen = presentasi
+bounenkai =
+kanji =
+honsha = head office
+
+modoru = kembali
+todoku =
+shikaru = dimarahin
+sumaseru = to finish
+matomeru = to collect
+homeru = memuji
+
+sakusei
+sakusei suru = preparing
+
+genki ga nai = 
+
+
+
++ raikyaku you no ocha wo konbini de kaTTE KIMASU.
+
+
+Listening 1:
+
+1. shiryo wo sakusei suru koto
+2. ari san ni shokuji ni sasowareta kara
+
+Listening 2:
+
+1. c
+2. a n b
+3. a
+4. d
+5. a n b
+
+
++ kaigi no haifubutsu ha (mou/zenbu) jyunbi shiTE SIMAIMASITA.
++ kaigi no haifubutsu ha jyunbi shiTE SIMAIMASU
+
+
+Conversation 1:
+
+1.
+A: asatte no kaigi no haifubtsu ha mou jyunbi simasita ka?
+B: hai, kyou no gozen chuu ni jyunbi site simaimasita.
+
+2.
+A: shuucho no houkokusho ha asatte made ni honsha ni okute kudasai ne
+B: hai, ashita okute simaimasu.
+
+3.
+A: bunbou gu to kopii youshi ha mou chuumon simasita ka? 
+B: hai, sakki sugukita de chuumon site simaimasita.
+
+4.
+A: kondo no purezen no siryou ha raishuu mo getsuyoubi made ni matomete kudasai ne.
+B: hai, konshuu chuu ni matomete simaimasu. 
+
+
++ bucho HA watashi WO yobimasita.
+<-- (passive) -->
++ watashi HA buchou NI yoBAREMASITA.
+
++ buchou HA watashi NI siryou no sakusei WO tanomimasita.
+<-- (passive) -->
++ watashi HA buchou NI siryou no sakusei WO tanoMAREMASITA
+
++ buchou HA watashi WO patii NI sasoimasita.
+<-- (passive) -->
++ watashi HA buchou NI paatii NI sasoWAREMASITA.
+
+
+Conversation 2:
+
+1.
+A: ureshi sou desune. nanika ii koto ga atta ndesuka
+B: ee, ari san ni shokuji ni sasowareta ndesu.
+
+2.
+A: ganki ga arimasen ne. nanika atta ndesuka?
+B: sakki, bucho ni shikarareta ndesu.
+
+3.
+A: ureshi sou desune. nanika ii koto ga atta ndesuka
+B: ee, purezen no naiyou wo homerareta ndesu
+
+4.
+A: ganki ga arimasen ne. nanika atta ndesuka?
+B: bounenkai no kanji wo tanomareta ndesu.
+
+
+
+A: ganki ga arimasen ne. nanika atta ndesuka?
+B: sakki, watashi ha bucho ni mata purezen wo tanomareta ndesu. tsukaremasita ndesuyo.
+
+A: asatte no kaigi slide ha jyunbi simasita ka?
+B: hai, yuube slide ha mou jyunbi site simaimasita.
+
+/*
+ashita no kaigi no houkokusho wo jyunbi site simaimasita. gogo ha kaigi ga arimasita. yoru, buchou ni isogi no shiryou no sakusei wo tanomaremasita. jikan ga kakate totemo taihen desuga ganbarimasu. sorekara, kyou kanojo ni shokuji ni sasowareta node, dooyoubi ni shigoto ga owatte kara, nihon ryouri no mise ni ikimasu. tanoshimi desu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
