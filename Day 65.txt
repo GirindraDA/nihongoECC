@@ -1,0 +1,151 @@
+Vocabulary:
+
+ryou = an amount
+shinyuu shain = 
+gyoumu = bussines
+to do risuto = to do list
+mai shuumatsu
+shuu
+gyoumu nisshi = business diary
+kachou = section manager
+buka = subordinate person
+menba = member
+zenin = all members
+
+kitzuku = to recognize
+furikaer = to look back on
+isogu = to hurry
+machigaeru = to make a mistake
+
+houkoku
+houkoku suru = melakukan report 
+mendan
+mendan suru = interview
+
+kyoumi bukai = very interesting
+taisetsu = important
+tabou = being very bushy
+nebusoku = lack of sleep
+nesshin = enthusiastic
+
+
+Listening 1:
+
+1. ookunai
+2. keito san jyanai
+3. benri jyanai
+4. machigaeteinai
+
+1. maru
+2. batsu
+3. maru
+4. batsu
+
+              
++? kaigi no heya, machigaete iNAI DESUKA
++= hai, machigaete IMASU
+-= iie, machigaete IMASEN
+
+- mike-san jyanai desuka?
+- nimotsu omokunai desuka?
+- samukunai desuka?
+- tabou jyanai desuka?
+
+
+Listening 2:
+
+1. mai asa, gyoumu no to do risuto wo tsukurasete iru.
+2. maishuu kinyoubi ni dono kurai shigoto ga susunda ka, raishuu nani wo suru ka houkoku sasete iru.
+3.saisho no sankagetsu ha gyoumu nisshi wo kakasete iru.
+
+
+<!-- sieki-kei -->
+
+/*verb-[intransitive]*/
++ kachou HA watashi WO seminaa NI sanka SASEMASU.
+
+/*verb-[transitive]*/
++ kachou HA watashi NI purejekuto no naiyou WO FURI KAESASEMASU.
+
+
+Conversation 1:
+
+1.
+A: shinnyu shain ni hayaku shigoto wo oboesaseru tame ni, site iru koto ha arimasuka?
+B: mai asa, gyoumu no to do risuto wo tsukurasete imasu.
+
+2.
+A: shinnyu shain ni hayaku shigoto wo oboesaseru tame ni, site iru koto ha arimasuka?
+B: mainichi, gyoumu nisshi wo kakasete imasu
+
+3.
+A: shinnyu shain ni hayaku shigoto wo oboesaseru tame ni, site iru koto ha arimasuka?
+B: mai tsuki, mendan wo site, shigoto no naiyou wo furi kaerasete imasu
+
+4.
+A: shinnyu shain ni hayaku shigoto wo oboesaseru tame ni, site iru koto ha arimasuka?
+B: mai shuumatsu, tsugi no shuu ni suru koto wo houkoku sasete imasu.
+
+
++ oboeru koto ga ooKUTE taihen desu.
++ tabou DE nebusoku ni nari sou desu
+
+
+Conversation 2:
+
+1.
+A: buka ga fuete, isogashiku narimasu ne.
+B: hai. tabou de nebusoku ni naru kamosiremasen.           
+
+2.
+A: kaigi no shiryou no sakusei, taihen desita ne.
+B: hai. jikan ga sukunakute isoide tsukuri masita.
+
+3.
+A: atarashii purojekto ga hajimarimasta ne. 
+B: hai. menbaa no zenin ga nesshin de totemo tanoshii desu.
+
+4.
+A: kinou ha maaketingu no seminaa desita ne.
+B: hai. naiyou ga wakari yasukute kyoumibuka katta desu.
+
+
+
+
+
+A: shinnyu shain ni hayaku shigoto wo oboesaseru tame ni, site iru koto ha arimasuka?
+B: mainichi, gyoumu nisshi wo kakasete imasu
+
+tokorode
+
+A: atarashii purojekto ga hajimarimasta ne. 
+B: hai. menbaa no zenin ga nesshin de totemo tanoshii desu.
+
+
+/*
+raishuu, watashi ha shinnyu shain ni naru node, ima kara douyatte hayaku shigoto wo oboesasete iru ka, senpai ni kikimasita. sanpai no adobaisu ha, maiasa, shinyuu shain ni gyoumu no to do risuto wo tsukurasete imasu. sorekara, gyoumu nisshi mo kakasete, shigoto no shikata wo furikaerasete imasu. shigoto no shikata wo furikaeru koto ha taisetsu desu. shinnyu shain ni toshite, oboeru koto ga ookute muzukashii desu. tabou ni naru kamosirenai ga, ganbarimasu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
