@@ -1,0 +1,104 @@
+Vocabulary:
+
+chourei = morrning assembly
+gomi =
+kono tabi = at this time
+shokudou = canteen
+ruuru = rule
+nama gomi =
+gomi bako = tempat sampah
+purasichkku gomi
+senyou =
+kata = a person (polite)
+moto = former, original
+ichi = posisi (position)
+obentou bako = 
+oku = the depths, bottom
+sinku = toil
+tabako = rokok
+~ka = a ~section
+kaiteki = pleasent
+
+sugosu = to spend
+ruuru wo mamoru = to keep (rule)
+modosu = mengembalikan
+suu = menghisap (rokok)
+yogosu = to make dirty
+wakeru = memisahkan (sampah)
+suteru = membuang (sampah)
+
+rinyuuaru
+rinyuuaru suru = renovation
+riyou
+riyou suru = utilization
+
+
+
+(harus dilakukan)
++ jisho-kei + koto ni natte imasu
+
+(dilarang)
++ te-kei + site ha ikenai koto ni natte imasu
+
+rei bun: 
+
+*baito de 30 igai okurete site ha ikenai koto ni natte imasu.
+*baito de 
+
+
+jisho-kei + owarimasu:
+
+- tabeOWARIMASU
+- tsukaiOWARIMSU
+
+ta-kei + mama :
+
+- mizu wo dasitaMAMA
+
+
+Conversation 1:
+
+1.
+A: tabeowatara, syokki wo henkyaku guchi ni motte itte kudasai.
+B: wakarimasita
+A: shyokki ni tabemono wo nokosita mama, kaesanaide kudasai ne.
+
+2.
+A: tabako wo suiowattara, kitsuen shitsu no denki wo kesite kudasai
+B: wakarimasita
+A: kitsuen sitsu no doa aketa mama, suwanaide kudasai ne
+
+3.
+A: nomiowatara, kami koppu ha gomi bako ni sutete kudasai
+B: wakarimasita.                      
+A: kami koppu no naka ni nomimono ga haitta mama, sutenaide kudasaine.
+
+4.
+A: isu ya teburu wo tsukaiowattara, moto no ichi ni modosite kudasai
+B: wakarimsita.
+A: teburu wo yogositamama, kaeranaide kudasai ne.
+
+
+A: kaigi sitsu tsukaiowattara, kaigi shitsu no denki wo kesite kudasai
+B: wakarimasita
+A: soshite eakon no kaigi sitsu wo t mama, suwanaide kudasai ne.
+
+
+
+/*
+sengetsu watashi nyuugaku simasita. senpai ha watashi ni toshokan no ruru wo oshiete kuremasita. hon wo kariru toki, mazu memba ni naru koto ni nattemasu. memba ni naranakattara hon wo karimasen. soshite, tsukai owatta isu ya teburu ha, moto no ichi ni modosite okimasu. jitsu ha hoka no ruru ga takusan arimasita. demo senpai no hanasi wa amari kikitakunai kara sore dake oboemasu. tonikaku, minna ga kaiteki ni sugoseru hito ha ruru wo mamoranakereba narimasen
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
