@@ -1,0 +1,124 @@
+Vocabulary:
+
+kanrinin = administrator
+uraguchi = back door
+rouka = koridor
+dentou = electric light
+denkyuu = electricity cut-off
+suidou = water supplay
+jyaguchi = faucet
+konro = cooking stove
+gasu = gas
+
+tsuku = to be attached
+ireru = to input
+kireru = 
+kaeru = mengganti
+moreru = 
+tazuneru = to ask
+kowareru = rusak
+
+shuuri
+shuuri suru = repair
+taiou
+taiou suru = handling, dealing with
+
+abunai = bahaya
+101gou sitsu/ ~gou sitsu
+ato de = later, afterward
+
+
+Listening 1:
+
+1. oto wo chisaku site hoshii
+2. michi wo oshiete hoshii
+3. nomimono wo irete hoshii
+
+
+//ndesu ga / ndesu kedo / ndake do
+- urusai
+- samui 
+- tsukai tai / denchi 
+
+kusuri o hoshii ndesu ga/
+
+
+Listening 2:
+
+1. manshion no kanrinin to hanasimasu
+2. uraguchi no kagi ga kowarete,
+sanngai no rouka no dentou ga kirete ite, kichin de mizu ga moreru
+
+
++ mizu GA moreru ndesu
++ ie no kagi GA mitsukaranai ndesu
+
++ kagi GA kowareTE IRU ndesu.
++ denkyuu GA kireTE IRU ndesu.
+
+(polite ++)
++ atarshii denkyuu ni kaTE KUDASAIMASENKA
+
+
+Conversation 1:
+
+1.
+A: 3gai no rouka no dentou nan desu ga, denkyuu ga kirete iru ndesu. kurakute abunai node, atarashii denkyuu ni kaete kudasai masenka
+B: wakarimasita. sugu atarashiii denkyuu ni kaemasu ne.
+
+2.
+A: kichin nandesu ga, konro no hi ga tsukanai ndesu. ryouri ga dekinai node, gazu gaisha ni renraku site kudasa imasenka.
+B: wakarimasita. sugu renraku simasu ne.
+
+3.
+A: 502gousitsu nandesu ga, kyuutouki ga kowareta ndesu. oyu ga tsukaenai node, shuuri wo tanonde kudasa imasenka.
+B: wakarimasita. sugu shuuri wo tanomimasu ne.
+
+4.
+A: kinou hikkosite kita ndesuga, genkan no dentou no denkyuu ga tsuite inai ndesu. fuben na node, hayaku denkyuu wo tsukete kudasa imasenka. 
+B: wakarimasita. sugu tsukemasu ne.
+
+
+A: atarashii apatoo ni hikkosite kita ndesuga, kyuutouki ga kowareta ndesu. oyu ga tsukaenai node, shuuri wo tanonde kudasa imasenka.
+
+
+/*
+watashi ha senshuu, atarashii apatoo ni hikkoshi simasita. kinou daigaku kara kaetta toki, kanrin nin san ni hanasite, rouka no dentou no denkyuu ga kirete kanrinin san ni tanonde mimasita. heya no mae ga totemo kurakute, abunakatta ndesu. aruku nattara, anshin de yokatta desu. sorekara, heya no mado mo kowarete taihen desita.
+demo, kanrinin san ha shuuri wo tanonde yokatta desu. shuumatsu, shuuri no hito ga kite kureru sou desu.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conversation 2:
+
+1.
+A:
+B:
+
+2.
+A:
+B:
+
+3.
+A:
+B:
+
+4.
+A:
+B:
+
+
+
+
+
