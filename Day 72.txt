@@ -1,0 +1,125 @@
+Vocabulary:
+
+dekigoto = an incident
+kaisatsu = examination of tickets
+oritatami gasa =
+mezamasi dokei =
+hitsuge = date
+tetsudou = railroad
+tsuujyou = usual, ordinary
+zenkoku = seluruh
+seichou = tumbuh jadi lebih besar
+chiki = district, area
+jyouhou = information
+
+butsukaru = menabrak
+omoidasu = mengingat
+hasiru = berlari 
+aku = kosong(ex. kursi)
+machigau = to make a mistake
+agaru = naik
+atsumaru = berkumpul
+nureru = basah
+miawaseru = 
+norikaeru = to transfer
+
+motte kuru = membawa
+oite kuru = ditinggalkan
+
+unkou
+unkou suru = operation
+shuukaku
+shuukaku suru = harvest
+nebou
+nebou suru = sleeping in late
+
+totsuzen = suddenly
+sikashi = however, but
+~ sen = yamanate-sen
+~ i = ichi-i
+
+
+Listening 1:
+
+1. a. densha to jidousha ga butsukaru jiko ga okita.
+2. a. zenkoku de tamanegi no nedan ga agatte imasu
+
+
+//(jisho-kei + tame) = to express reason. Same imi with KARA/NODE
+
++ densha to jidousha ga butsukaru jiko ga okita TAME, densha no unkou wo miawase masita.
+
+
+Reading 1:
+
+1. kesa no deki goto desu
+2. densha ga tomatte ame ga furimasita.
+
+
+//(V-te kei + imasita)
++ kaisatsu no mae ni takusan hito ga atsumaTTE IMASITA.
+
+
+
+Conversation 1:
+
+1.
+A: kesa, eki ni tsuita toki, kaisatsu no mae ni takusan hito ga atsumatte imasita
+
+2.
+A: itsumo, iku resturan nishokuji ni itta toki, seki ga aite imasen desita.
+ 
+3.
+A: kinou no yuugata, kousaten de jiko ga atte, michi ga konde imasita 
+ 
+4.
+A: kesa, ame ga futte, jimen ga nurete imasita.
+
+
+//(V-plain form + NO WO/ NO NI ... ) to describe something u found out or noticed.
+
++ densha ga tomatte iru NO WO siri masita.
+
++ ie ni kasa wo oite kita NO WO omoidasi masita
+
++ oritatami gasa ga nai NO NI kitsuki masita.
+
+//(V[conditional] + BA + YOKATTA)
+
++ densha no jyouhou wo mite oKEBA YOKATTA DESU.
+
++ densha no jyouhou wo mite oKEBA YOKATTA TO omoimasita.
+
+
+//(V-te kei + kimasita) to express that a certain situation starts to occur naturally
+
++ totsuzen ame ga fuTTE KIMASITA.
+
+
+Conversation 2:
+
+1.
+A: kesha ha dousita ndesuka densha ga tomatte ita ndesuka
+B: hai, sou nandesu. densha to jidousha ga butsukatta sou desu. eki ni tsuite, densha ga tomatte iru no wo sirimasita
+A: sou datta ndesuka?
+B: ie wo deru mae ni, densha no jyouhou wo mite okeba yokatta to omoimasita.
+
+2.
+A: kesa ha dousita ndesuka. nebou sita ndesuka.
+B: hai, sou nandesu. kinou no yoru, mezamasidokei no aramu wo kakeru no wo wasurete simaimasita
+A: sou datta ndesuka.
+B: neru mae ni aramu wo kaketa ka douka, kakunin site kara nereba yokatta to omoimasita.
+
+3.
+A: taihen sou desu ne.
+B: hai sou nandesu. yuugata no kaigi no siryou wo youi site nai no wo omoidasita ndesu.
+A: sou desuka
+B: kinou no uchi ni youi site okeba yokatta desu.
+
+4.
+A: isogashi sou desune.
+B: hai, sou nan desu. posuta no hitzuke ga machigatte iru no ni kitzu ita ndesu.
+A: sou desuka
+B: machigatte inai ka douka, chuumon suru mae ni mou ichido kakunin sureba yokatta desu.
+
+

@@ -1,0 +1,159 @@
+Vocabulary :
+
+kemuri = mendung
+jisin = gempa
+hijyoubukuro =
+garasu = kaca
+surippa =
+kaji  = kebakaran
+ooku = many
+syoukaki =
+erebeetaa = elevator
+ooame = hujan deras
+hoomupeeji = homepage
+rajio = radio
+
+mamoru = melindungi
+tooru = melewati
+kakureru = hide
+awateru = to become confused
+wareru = pecah
+nigeru = lari
+
+sinpai
+sinpai suru = khawatir
+hinan
+hinan suru = 
+kyouryoku
+kyouryoku suru = collaboration
+teiden
+teiden suru = mati lampu
+kega
+kega wo suru = terluka
+
+muri = impossible
+anzen = safe
+dekiru dake = as much as possible
+zettai ni = absolutly
+
+
+
+//(V Imperative form)
+
++ teeburu no sita ni kakureRO
++ atama wo mamoRE
+
+//meirei KEI
+
+tipe 1:
+iku => ike
+osu => ose
+
+tipe 2:
+miru => miro
+nigeru => nigero
+
+tipe 3:
+kuru => koi
+suru => siro
+chuui suru => chuui siro
+
+
+//(V Negative Imperative form)
+- awateru NA
+- sinpai suru NA
+
+//kinsi kei = add "NA"
+
+iku => iku NA
+nigeru => nigeru NA
+kuru => kuru NA
+suru => suru NA
+
+
+//breakout room
++ soto ni dero
++ teburu no sita ni kakurero
+
+//expression
++ shinpai suru na
++ shinpai sinade
+
+
+//(V-plain form + baai (ha))
+
++ ryouri chuu ni jishin ga okotta
+BAAI HA mazu hi kara hanarete kudasai
+
+
+Conversation 1:
+
+1.
+A: tenpura abura kara hi ga deta baai ha, dousitara ii desu ka
+B: shoukaki de kesite kudasai
+
+2.
+A: ooame no toki, hinan suru no ga muri na baai ha , dousitara ii desuka
+B: ie no naka no anzen na bashou ni ite kudasai
+
+3.
+A: tsunami ga kuru koto ga wakatta toki, hinan suru bashou wo siritai baai ha, dousitara ii desuka
+B: homupeeji ya bousai mappu wo mite kudasai
+
+4.
+A: jisin ga okotta ato, ie kaerenai baai ha, dousitara ii desuka
+B: chikaku no hinanjyou e itte kudasai
+
+
+//(Noun + de)
+
++ wareta garasu DE kega wo suru kamosiremasen
+
+
+Conversation 2:
+
+1.
+A: wareta garasu de kega wo suru kamosirenai node, jisin no ato ha, surippu ya kutsu wo haite kudasai.
+
+2.
+A: teiden de erebetaa ga tomaru kamosirenai node, kaji ya jishin no baai ha, erebetaa wo tsukawanai de kudasai
+
+3.
+A: yuki de michi ga toorenaku naru kamosirenai node, terebi ya intenato de tenki youhou wo yoku kakunin site kudasai
+
+4.
+A: jisin de kagu ga taoreru kamosirenai node, beddo no chikaku ni kagu wo okanaide kudasai
+
+
+<!---  --->
+
+A : sumimasen, jisin no toki watashi dousita ra ii desuka?
+B : tonikaku, erebeta wo tsukawanaide kudasai.  
+A : sorekara, kaidan wo tsukaimasu ka?
+B : hai, tsukete kudasai. 
+A : hai, arigatou gozaimasu.
+B : Eeto, jisin no ato teiden de erebetaa ga tomaru kamosirenai node, erebetaa wo tsukawanai de kudasai yo.
+A : sou desuka. 
+B : soshite, wareta garasu de kega wo suru kamosirenai node, jisin no ato ha, surippu ya kutsu wo haite kudasai.
+
+<!--- --->
+
+tsunami ga aru no jyouhou ga kita baai ha, mazu takai tokoro ni itte, ochi tsuite kudasai. sore kara, terebi ya rajio nado de jyouhou wo atsumemashou. tsunami ha hontou ni kuru ka douka, kakunin simasu. tsunami ha itsu okoru ka wakaranai node, hijyou ji ni hitsuyou na mono ha hijyoubukuro ni irete jyunbi site okimashou.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
