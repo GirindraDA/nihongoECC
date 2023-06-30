@@ -1,0 +1,147 @@
+Vocabulary:
+
+sakumotsu = 
+hiyou = cost, an expense
+ato katatzuke = 
+esukareetaa = eskalator
+
+nozogu = mengintip
+sawagu = 
+hanasiau = 
+nokoru = 
+kotowaru = menolak
+tameru = menabung
+
+shingaku 
+shingaku suru =
+hantai
+hantai suru = berlawanan
+sansei
+sansei suru = 
+nattoku
+nattoku suru = 
+kyouka
+kyouka suru = permission
+keiken
+keiken suru = an experience
+futan
+futan suru = 
+seisan
+seisan suru = 
+mudatzukai
+mudatzukai suru = 
+
+tsuyoi = strong
+yasashi = baik
+jyama = menganggu
+atarimae = obvious
+wazawaza = espicially
+
+shinpai wo kakeru = to worry someone
+sewa wo suru = to take care of
+
+
+//(V-nai + DE HOSHII)
+
++ chichi yoku sofaa de nete iru ndesu. jyama dakara, sofa de NENAI DE hoshii desu.
+
++ kafee de sawaide iru hito ga ita ndesu. SAWAGANAI DE hoshii desu
+
++ kono aida, densha no naka de biiru wo nonde iru hito ga ita ndesu. densha no naka de biiru wo NOMANAI DE hoshii desu.
+
+
+1. jyama wo sinai de hoshii
+2. sutenai de hoshii
+3. kawanai de hoshii
+
+/*
+Haha wa yoku takai kagu wo kaimasu. yasui hou ga ii to omoimasu. takai kagu wo kawanai de hoshii desu. 
+*/
+
+
+Listening 1:
+
+1. ryoushin ga hantai site iru
+2. nihon de wa daigakuin mo dekiru
+
+
+<!--$new = "dekiru to ha omoimasen" => "i don't think so"; -->
+
+
+//(Noun[person] + HA + V-shieki kei + kuremasu)
+
++ ryoushin HA ryugaku ni iKASETE KUREMASITA.
+
++ ryoushin HA ryugaku SASETE KUREMASITA.
+
+
+Conversation 1:
+
+1.
+A: ryugaku sitai to itta toki, goryoushin ha sansei site kuremasita ka
+B: iie, hantai saremasita. demo, saigo ha nattoku site, ryugaku sasete kuremasita
+
+2.
+A: jyugyou no ato, kyousitsu ni nokotte benkyou sitai to itta toki, sensei ha kyouka site kuremsaita ka
+B: hai, kyouka site kuremasita. 18ji made ni kyousitsu wo deru koto wo yakusoku site, nokote benkyou sasete kuremasita
+
+3.
+A: sato oya ga mitsukaru made koneko wo hogositai to itta toki, goryoushin ha sansei site kuremasita ka
+B: hai, sansei site kuremasita. kichin to sewa wo suru koto wo yakusoku site, hogosasete kuremasita.
+
+4.
+A: jyuugyou no ato, kyousitsu de patii wo sitai to itta toki, sensei ha kyouka site kuremasita ka
+B: iie, kotoware masita. demo, saigo ha kichin to ato katazuke suru koto wo yakusoku site, patii wo sasete kuremasita.
+
+
+//(V-nai + YOU NI SITE IMASU) 
+
++ watashi ha, hiyou no koto de ryousin no futan ni NARANAI YOU NI SITE IMASU
+
+
+
+Conversation 2:
+
+1.
+A: watashi ha, hiyou no koto de ryousin no futan ni naranai you ni site imasu
+
+2.
+A: watashi ha, okane wo tameru tame ni muda tzukai wo sinai you ni site imasu
+
+3.
+A: watashi ha, me ga tsukarenai you ni, sumaho ya pasokon wo nagai jikan tsukawanai you ni site imasu.
+
+4. 
+A: watashi ha, kenkou no tame ni, erebeta ya esukaretaa wo tsukawani you ni site imasu.
+
+
+
+
+A: kaimono no ato, heya ni nokotte benkyou sitai to itta toki, haha oya ha kyouka site kuremsaita ka
+
+B: hai, kyouka site kuremasita. 18ji made ni kyousitsu wo deru koto wo yakusoku site, nokote benkyou sasete kuremasita
+
+A: watashi ha, me ga tsukarenai you ni, sumaho ya pasokon wo nagai jikan tsukawanai you ni site imasu.
+
+
+
+shuumatsu ni ichi nichi heya de gemuu site, haha oya ha site kuremasita
+
+
+watashi ha, haha oya ni shuumatsu ichi nichi de heya wo geemu sitai to itta toki, hajime ha hantai saremasita. demo, haha oya to nan kai hanasite, saigo ni sasete kuremasita.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

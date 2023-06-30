@@ -1,0 +1,120 @@
+Vocabulary:
+
+nayami = trouble
+kurasumeto = classmate
+kyoumi = interest
+aidoru = idol
+kareshi = pacar (man)
+mochimono = barang bawaan
+monku = misuh/ngeluh
+
+houtte oku = to leave alone
+kirau = to hate
+komaru = kesusahan
+
+chuui 
+chuui suru = memperingatkan
+
+sitsukoi = insistent
+tsumaranai = bosan
+iya = ogah
+taikutsu = bosan
+meiwaku = trouble, bother
+
+hakkiri = clearly
+dakara = so, therefore
+
+hara wo tateru = menjadi marah
+kyoumi ga aru = ada interest
+kigen ga warui = lagi bad mood
+wasuremono wo suru = lali keri
+
+
+//(Noun + NO KOTO DE)
+
++ chichi NO KOTO DE, hara wo tate te imasu
++ tomodachi NO KOTO DE, nayande imasu
+
+//(MOU + [polite-form][negative])
+
++ MOU kodomo DE HA ARIMASEN
+(casual)
++ MOU kodomo DE HA NAI
+
+
+<!-- -->
+saikin, shuumatsu ni kinjo ha ookii koe o hanasu no wo nayande imasu
+<!-- -->
+
+1. tonari no hito koto de, hara wo tate te imasu
+2. kareshi no koto de, nayande imasu
+3. shigoto no koto de, komatte imasu
+4. benkyou no koto de, nayande imasu
+
+
+Listening 1:
+
+1. kareshi to isshoni itte mo, hitori de geemu wo site bakkari node tsumaranai
+2. tabe owatta
+3. geemu wo site bakkari
+4. kigen ga waruku naru
+5. kirawareru
+
+1. jibun no kimochi wo hakkiri tsutaeru
+2. hon o yonde bakkari ita
+3. chuui sareta
+4. hon wo yomu no wo yameta
+5. kanojo no kimochi
+
+
+//(V-te + BAKKARI IMASU)
+
++ kareshi ha geemu wo SITE BAKKARI IMASU
+
+//(V-ta + DOU DESUKA)
+
++ geemu wo suru no wo yamete hoshii to itTARA DOU DESUKA
+
++ sumaho de geemu wo site bakkari ITE..
+
+
+Conversation 1:
+
+1.
+A: kareshi no koto de, nayande imasu
+B: donna koto desuka?
+A: isshoni ite mo, geemu wo site bakkari iru node, tsumaranai ndesu
+B: jyaa, kareshi ni geemu wo suru no wo yamete hoshii to ittara dou desuka?
+
+2.
+A: shougaku sei no musume no koto de, nayande imasu.
+B: donna koto desuka
+A: wasuremono wo site bakkari iru node, sinpai nandesu
+B: jyaa, mae no hi no yoru ni, isshoni mochi mono wo kakunin sitara dou desuka
+
+3.
+A: tomodachi no koto de komatte imasu.
+B: donna koto desuka?
+A: shigoto no monku wo itte bakkari iru node, iya nandesu.
+B: jyaa, monku wo itte bakari ite mo, nani mo kawaranai yo to ittara dou desuka
+
+4.
+A: arubaito wo site iru mise no douryou no koto de, komatte imasu.
+B: donna koto desuka
+A: itsumo shigoto wo sinaide hoka no arubaito no hito to hanasi site bakkari iru node, meiwaku nandesu
+B: jyaa, tenchou ni soudan sitara, dou desuka
+
+
+/*
+A: saikin, shigoto wo site iru kaisha no douryou NO KOTO DE, nayande imasu.
+B: donna koto desuka
+A: itsumo shigoto wo sinaide hoka no douryou to ooki koe to hanasi siTE BAKKARI iru node, meiwaku nandesu
+B: jyaa, buchou ni soudan siTARA DOU DESUKA?
+A: sou nandesu yo ne. sou simasu
+*/
+
+
+/*
+watashi no kanojo ha, saikin watashi to itsumo insta wo site bakkari imasu. watashi ha tsumaranai shi, kanojo to isshoni iru toki ha nichijou no hanashi wo sitai desu. demo, watashi ha kanojo ni nani ka itte kirawareru no ga iya na node, nani mo iemasen desita. sore de, tomodachi ni soudan simasita. tomodachi ha kanojo ni hakkiri kimochi wo tsutae you to omoimasita.
+*/
+

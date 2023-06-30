@@ -1,0 +1,131 @@
+Vocabulary :
+
+hitsuyou = butuh
+digitaru = digital
+digitaru komikku = komik digital 
+kigyou = business
+sutorii = a story
+gijyutsu = engineering
+puro = pro
+asisutanto = assitent
+hyou =
+moji = word
+jinsei = one's life
+choushi = condition, state of health
+byouki = sakit
+narai goto = accomplisment
+chero =
+kumiawase = a combination
+
+tszuku = lanjutkan
+kurushimu = to suffer
+tsunagaru = terhubung
+hiromeru = to spread
+akogareru = to yearn after
+tasukeru = menolong
+
+debyuu
+debyuu suru = debut
+keiei
+keiei suru = management, administration
+gakushuu
+gakushuu suru = study
+
+dondon = quickly
+~teki =
+mi ni tsukeru = to learn
+kikkake wo tsukamu = to seize an oppurtunity
+dentou wo mamoru =
+sutorii wo tsukuru = create story
+tsutszuite = to next
+
+
+Listening 1:
+
+1. benkyou shi hajimemasita
+2. oboeru no ha muzukasiii
+
+/*
+- nanika ii oboe kata ga arimasuka?
+*/
+
+
+//(V-masu + hajimemasu)
+
++ saikin kankoku go wo benkyou SHI HAJIMEMASITA.
+
+//(V-jishou kei + NO HA)
+
++ hanguru wo oboeru NO HA muzukashii desu.
+
++ hanguru wo oboeru NO HA kantan desu
+
+
+//(N + TOSHITE)
+
++ mangaka TOSHITE debyuu simasita.
+
+
+//(V - masu + TSUZUKKEMASU/ TSUZUKETE IMASU)
+
++ manga wo kaki TSUZUKEMASU
++ manga wo zutto kaki TSUZUKETE IMASU
+
+
+Conversation 1:
+
+1.
+A: watashi ha mangaka desu. 7 nen kakate mangaka toshite debyuu site, sorekara zutto manga wo kaki tsuzukete imasu.
+
+2.
+A: watashi no kazoku ha ryokan wo keiei site imasu. 100 nen tsuzuite iru onsen ryokan no dentou wo mamori tsuzukete imasu.
+
+
+3.
+A: kore ha otto ni moratta siafu desu. taisetsu na mono node, 10 nen ijyou tsukai tsuzukete imasu.
+
+4.
+A: kore ha bitamin no sapurimento desu. kore wo nomu to karada no choushi ga ii node, 6nen kan nomi tsuzukete imasu.
+
+
+//(Noun + NO YOUNA + Noun)
+
++ ane NO YOU NA hito
++ wanpisu NO YOU NA nihon no manga
+
+
+//(Noun + NO YOU NI ...)
+
++ ane NO YOU NI, nihon de shigoto wo sitai desu.
+
+
+Conversation 2:
+
+1.
+A: akogarete iru hito ha dare desuka?
+B: ane desu. ane ha nihon no kigyou de hataraite ite, watashi mo ane no you ni, nihon de shigoto wo sitai desu.
+
+2.
+A: shourai no yume ha nan desuka?  
+B: isha no you ni, byouki de kurushimu hito wo tasukeru koto desu
+
+3.
+A: donna kuni ni itte mitai desuka? 
+B: nyujirando ya kanada no you na shizen ga takusan aru kuni ni itte mitai desu.
+ 
+4.
+A: donna naraigoto wo site mitai desuka?
+B: baiorin ya chero no you na gengakki wo naratte mitai desu.
+
+
+
+
+
+
+
+
+
+
+
+
+

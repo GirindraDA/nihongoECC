@@ -1,0 +1,98 @@
+Vocabulary :
+
+
+netto shoppingu  =
+douga = movie
+kaunseraa = counseling
+shakaijin =
+oya = orang tua
+tasuke = help
+senjitsu = 2 days ago
+taijyuu = berat badan
+raibu = live (ex. konser)
+kekka = a result
+saisho = a beginning
+
+chuushi
+chuushi suru = batal 
+jyuujitsu
+jyuujitsu suru = 
+gaishoku
+gaishoku suru = makan diluar
+chikoku
+chikoku suru = terlambat
+jyama
+jyama suru = menggangu
+
+mendou =
+katte = selfish
+chanto = properly, seriously
+mada = still
+narubeku = if possible
+
+
+Listening 1:
+
+1. gorufu bakkari site imasu.
+2. kaimono bakkari site imasu
+3. manga bakkari yonde imasu
+4. douga bakkari mite imasu
+
+//(Noun + Bakkari)
+
++ otto ha yasumi no hi, gorufu BAKKARI site imasu.
+
+//(V-jishokei + YOU NI NARIMASU)
+
++ mi no mawari no koto wo jibun de suru YOU NI NARIMASITA
+
+
+
+Conversation 1:
+
+1.
+A: jikka wo dete kara, mi no mawari no koto ha jibun de suru you ni narimasita
+
+2.
+A: saikin taijyuu ga fueta node, kenkou no tame ni jyogingu wo suru you ni narimasita.
+
+3.
+A: mainichi ohiru ni gaishoku sitara okane ga kakaru node, obentou wo tsukuru you ni narimasita
+
+4.
+A: kyonen, nankai mo yuki de densha ga okurete jyugyou ni chikoku sita node, kotoshi ha yuki no hi ha hayaku ie wo deru you ni narimasita.
+
+
+//(Verb-Tai + Garu/Gatte imasu)
+
++ haha ha totemo ureSHI GATTE IMASU
+
+
+Conversation 2:
+
+1.
+A: kono aida, haha ni denwa wo site kimochi wo tsutae masita. haha ha totemo ureshigatte imasita
+
+2.
+A: kinou, musume to isshoni ie no souji wo simasita. musume ha mendou kusa gatte imasita ga, chanto souji wo site kuremasita
+
+3.
+A: asita, otouto ha saiyou siken no mensetsu ga arimasu. otouto ha fuan gatteimasu ga, daijyoubu da to omoimasu
+
+4.
+A: tomodachi to isshoni iku raibu ga chuushi ni narimasita. tomodachi ha totemo zannen gatte imasita
+
+/*
+watashi ha kyonen, hitori gurasi wo hajimemasita. siasho ha muzukasi katta desu ga, saikin hitori gurasi wo naremasita. demo, sekakku jiritsu suru tame ni hitori gurasi wo hajimeta noni, oya ha mainichi yoku denwa site, jyama simasita. Dou sureba ii darou? 
+*/
+
+
+
+
+
+
+
+
+
+
+
