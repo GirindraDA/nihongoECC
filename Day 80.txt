@@ -44,57 +44,91 @@ A: okinawa ni ryokou ni itta toki, hikouki ga okurete taihen desitane
 B: ANO toki ha tsukaremasita ne.
 
 
+//([Sentence] + TO KAITE ARIMASU)
 
++ hoomupeeji ni 11nichi hatsubai TO KAITE ARIMASU
+
+//(plain-form + TO KAITE ARIMASU)
+
++ hoomupeeji ni 11nichi hatsubai da TO KAITE ARIMASU
+
+
+//(plain-form + RASHII DESU)
+
++ atarashii arubamu ga hatsubai sareru RASHII DESU.
 
 
 Conversation 1:
 
 1.
-A:
-B:
-A:
-B:
+A: SKY no homuupejii ni 11nichi hatsubai to kaite arimasu
+B: sou nan desune. tanoshimi desune
+A: sorekara, 17nichi ha konsatoo tsuaa no DVD no hatsubai bi rashii desu yo.
 
 2.
-A:
-B:
-A:
-B:
+A: eki no koukoku ni yoshikawa depatoo, 31nichi ni heiten to kaite arimasita
+B: sou nan desuka. zannen desu ne.
+A: sorekara, 15nichi kara heiten seeruu wo suru rashii desu yo
 
 3.
-A:
-B:
-A:
-B:
-
+A: ie no jyouhou saito ni, mezon wakaba ha eki kara chikakute, to ho 3pun to kaite arimasu.
+B: sou nan desuka. benri desune.
+A: sore ni, konbini ya supaa mo chikai rashii desu yo.
+ 
 4.
-A:
-B:
-A:
-B:
+A: tsuuhan saito ni, kono bijinesu baggu ha karukute tsukai yasui to kaite arimasita.
+B: sou nan desune. ii desune
+A: sore ni, takusan mono ga ire ra reru si, jyoubu rashii desu yo.
+
+
+//(plain-form + HAZU DESU)
+
++ konsato no kaijyou ha hirokute, 5man nin mo hito ga hairu HAZU DESU.
+
 
 Conversation 2:
 
 1.
-A:
-B:
-A:
-B:
+A: SKY ha atarashii arubamu wo hatsubai sita toshi ha kanarazu konsato wo suru node, kotoshi mo suru hazu desu
 
 2.
-A:
-B:
-A:
-B:
+A: kou san ha kuruma wo 5dai mo motte iru node okane mochi no hazu desu. 
 
 3.
-A:
-B:
-A:
-B:
+A: hikari daigaku ha gakusei ga 2man nin mo iru node, kyanpusu ga hiroi hazu desu
 
 4.
-A:
-B:
-A:
-B:
+A: yamada san ha eigo no siken de itsumo 100ten wo totte iru node, eigo ga tokui na hazu desu.
+
+
+question :
+-- ni tsuite
+-- itsu
+-- donna koto
+
+answer:
+~ rashii desu
+~ hazu desu
+~ to kaite arimasu
+
+
+...., raigetsu ha nihongo nouryoku siken no moku up ha arimasita to kaite arimasu.
+
+... sou nandeska. hajimete kikimasita. 
+
+... hai, websaito no homupeji kara mimasita.
+
+... waaa muzukashi rashii desuyo ne.
+
+... tasikani, zettai ni muzukashii hazu da ne.
+
+
+/*
+watashi ha bando no rajio heado no fan desu. mainichi rajio heado no kyoku wo kite heya de yoku uta wo utatte imasu. sengetsu homupejii wo mita toki, kongetsu 18nichi ni atarashii arubamu wo hatsubai suru to kaite atta node, hontou ni ureshikatta desu. zettai ni kaimasu. soshite, kotoshi mo indonesia ni konsatoo wo suru hazu desu. sono konsatoo ni ikanakyaa. demo, itsumo chikketo ga sugu urikirete simaiu node kotoshi no konsatoo no chiketto ga kaeru ka douka fuan desu. 
+*/
+
+
+
+
+
+
