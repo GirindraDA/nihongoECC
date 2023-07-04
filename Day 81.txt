@@ -1,0 +1,112 @@
+Vocabulary :
+
+otaku = your home
+kaminari = petir
+kaerimichi = jalan pulang
+keihou = warning
+yonaka = tengah malam
+sinai = in the city
+
+naku = nangis
+naru = berbunyi (ex. kicauan burung, klakson mobil, dll)
+nigoru = to become muddy, cloudy
+chikazuku = mendekat
+hoeru = meng-gongong
+okiru = to happen
+
+hannou
+hannou suru = response
+
+hidoi = kejam
+kiken = bahaya
+
+kyuu ni = suddenly
+ikinari = all of a suddan
+tasika ni = surely
+
+keihou ga deru = a warning is issued
+me ga sameru = melek bangun tidur
+ni san nichi = 2 or 3 days
+
+
++ yuki de densha ga tomatta toki, ryoshin wo renraku site imasita.
+
+
+Listening 1:
+
+1. ooame ga futtari kaminari ga natta ri simasita
+2. hai, daijyoubu 
+
+
+//(V-masu + DASIMASU)
+
++ kyuu ni hidoi ame ga furiDASIMASITA
+
+//(plain-form + MITAI DESU)
+
++ kaminari no ooki oto ni bikkuri sita MITAI DESU.
+
+
+Conversation 1 :
+
+1.
+A: yonaka ni, musume ga kyuu ni naki dasimasita
+B: eee, dousita n desuka
+A: kaminari no ooki oto ni, bikkuri sita mitai desu
+
+2.
+A: kesa, inu to sanpo site ita toki ni, inu ga ikinari hoe dasimasita
+B: ee, dousita ndesuka
+A: shiranai inu ga chikaku ni ita node, kowakatta mitai desu
+
+3.
+A: kinou no kaerimichi kyuu ni ame ga furi dasimasita
+B: ee, nuremasen desitaka
+A: hai. haha ga eki made kuruma de mukae ni kite kuremasita. kasa wo motte iru ka douka, shinpai datta mitai desu
+
+4.
+A: kinou no yoru totsuzen bouhan buzaa ga nari dasimasita
+B: ee, kurama ha kowa sarete imasen desitaka
+A: hai, daijyoubu desita. taifuu no tsuyoi kaze ni hannou sita mitai desu.
+
+
+/*
+kinou no hiru, daigaku no kerimichi totsuzen ooame ga furi dasimasita. watashi no fuku ha nurete simai masita. watashi ha baiku wo unten site imasita kara. kongetsu wa natsu dakara rain kotto wo motte imasendesita. ooame ha kekko yabai desita. nyuuzu ni yoru to, ame de chikaku no mizuumi no mizu ga fute ite, chikazuku to abunai da to iite imasita. mizu no ryou ga fuete, nigote iru no wo mita to itte imasita. ooame ga yanda mo, chuui sita hou ga ii to omimasita
+*/
+
+
+
+
+
+Conversation 2 :
+
+1.
+A:
+B:
+A:
+B:
+
+2.
+A:
+B:
+A:
+B:
+
+3.
+A:
+B:
+A:
+B:
+
+4.
+A:
+B:
+A:
+B:
+
+
+
+
+
+
+

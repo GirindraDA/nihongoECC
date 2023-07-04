@@ -1,0 +1,121 @@
+Vocabulary :
+
+hou = a direction
+ninki mono = popular person
+tegami = surat
+egao = wajah senyum
+bunka = budaya
+patokaa = patrolii car
+kyuukyusha = ambulan
+
+narabu = antri
+furimuku = nengok ke belakang
+kakinaousu = menulis ulang
+oriru = turun
+
+tenkou
+tenkou suru = pindah sekolah
+daietto
+daietto suru = diet
+
+okashii = strange
+shokku = shock
+ato = remaining
+kekkou = quite, pretty
+nandomou = many times
+oozei = crowd of people
+jissa ni = actually
+kotoba ni dekinai = cant put into words
+
+
+Listening 1:
+
+1. yuki ga furi sou
+2. 1jikan kakari sou
+3. 5ji made ni owari sou
+4. nedan ga agari sou
+
+
+//(V-masu + SOU DESU)
+
++ shuumatsu ha yuki ga furiSOU DESU
+
+
++ saki sou => mou 4gatsu kara, ano sakura ha saki sou da ne.
++ ori sou => raishuu, ano cafee no menyu no nedan ha ori sou da yo.
++ komi sou => konshuu ha yasumi da kara, michi ha komi sou nda. 
+
+
+//(Plain form + TO IU KOTO)
+
++ raigetsu tenkou suru TO IU KOTO wo kikimasita
+
+
+Conversation 1:
+
+1.
+A: tomodachi ga raigetsu tenkou suru TO IU KOTO wo kikimasita
+B: naka naka aenaku naru node, sabisii desune
+
+2.
+A: daigaku sei no uchi ni, indo e 1nen ryuugaku ni ikitai to iu koto wo, ryousin ni hanasi masita
+B: ryuugaku ni ittara, sono kuni no bunka wo jissai ni taiken dekimasu ne
+
+3.
+A: daite ni ha, niku kara toreru eiyou mo hitsuyou da to iu koto wo wasurete imasita
+B: baransu mo taisetsu na node, niku mo sikkari tabena kereba narimasen ne
+
+4.
+A: saiyou siken no saigo ha shachou to no mensetsu da to iu koto wo ima made sirimasen desita
+B: shachou to no mensetsu datta ra, sugoku kinchou simasu ne.
+
+
+//(plain-form + YOU DESU)
+
++ watashi no kimochi ha tsutawatta YOU DESU.
+
+
+Conversation 2:
+
+1.
+A: yuki san, genki ga arimasen ne
+B: eee, me ga akakatta kara, naite ita you desu
+
+2.
+A: hito ga oozei atsumate imasu ne
+B: ee. patokka ya kyuukyusha ga tomatte iru kara, nani ka atta you desu
+
+3.
+A: ame to kaze no oto ga sugoi desu ne
+B: ee, ookii taifuu ga chikazuite iru kara, soto ha kiken na you desu 
+
+4.
+A: nani ka ii nioi ga simasu ne
+B: ee. ringo no nioi ga suru kara, appuru pai no you desu
+
+
+/*
+A: ... san, watashi ha daigaku sei no uchi ni, europa ni 1nen ryuugaku ni ikitai to iu koto wo, ryousin ni hanasi masita
+B: ryuugaku ni ittara, sono kuni no bunka wo jissai ni taiken dekimasu
+A: hai sou desu. demo hanasite iru no toki ni ryousin no me ga aka kunatte naite iru you desu
+B: eee, kitto kanashii desu ne.
+*/
+
+
+/*
+watashi ha mirai san ha chuugakou kara no tomodachi desu. mirai ha itsumo tsukare sou kao wo site iru no ni, saikin yousu ga kira kira ni narimasita. ki ni natte imasita. hanasi wo sitakute, mirai no kurasu e ikimasita ga, mirai ha sugu kaete simatta node, nani mo kiku koto ga dekimasen desita. sono hi no kaerimichi noa san kara mirai ha rondon ni ryuugaku suru to iu koto wo kiite, yousu ga kira kira ni natte iru ryuu ga wakarimaista.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
