@@ -1,0 +1,132 @@
+Vocabulary :
+
+nijikai = after party
+kyori = distance
+pianisuto = pianis
+hotondo = mostly
+mata = again
+nagai aida = 
+ima demo = even now
+
+/*
+A: moriyama san ha, oshigoto ha nani wo nasatte imasuka?
+B: ryokou gaisha de hataraite imasu
+A:
+B:
+A: moriyama san ha, donna e wo okaki ni narimasu ka
+B: fuukei no e wo kaku no ga tokui desu
+A: moriyama san ha, nijikai mo go sanka ni narimasu ka
+B: iie. tsukou ga warukute sanka dekimasen
+*/
+
+//(O + V-masu + NI NARIMASU)
+
++? moriyama san ha, hon wo O yomi NI NARIMASU ka
++= hai, yomimasu
+-= iie, yomimasen
+
+
+//(GO + NI NARIMASU)
+
++? moriyama san ha, nijikai mo GO sanka NI NARIMASU ka
++= hai, sanka simasu
+-= iie, sanka simasen
+
+
+Listening 1:
+
+1. pekin shusshin
+2. hon wo yonda ri kurasikku wo kita ri simasu
+
+//Tenei-go
+1. simasu ka => saremasu ka
+2. hanasimasu ka => hanasaremasu ka
+3. suki desu ka => o suki desu ka
+4. itta koto arimasu => ikareta koto ga arimasu
+5. ishogashii => o ishogashii
+
+
+//(Verbs-[honorific form]. Sonkei-form)
+
++ chuugoku go wo hanaSAREMASU ka
+
+
+//Sonkei-form
+
+*Tipe 1:
+hanasu -> hanasareru
+iu     -> iwareru
+kau    -> kawareru
+
+*Tipe 2
+miru -> mirareru
+
+*Tipe 3
+kuru -> korareru
+suru -> sareru
+
+unten suru   -> unten sareru
+ryouri suru  -> ryouri sreru
+
+
+//(O - adverb I/NA)
+
++ O ishogashi
++ O genki
+
+
+//(V-kanou (nai) + KU NARIMASITA)
+
++ piano ga hikeNAKU NARIMASITA
+
+
+/*
+hanasu   -> hanasareru
+hajimeru -> hajimerareru
+kuru     -> korareru
+suru     -> sareru
+*/
+
+
+Conversation 1:
+
+1.
+A: oyasumi no hi ha, nani wo saremasuka
+B: hon wo yonda ri, kurasikku wo kita ri simasu. tokuni piano ongaku ga suki desu.
+A: watashi ha, mukasi ha piano ga hikemasita ga, ima ha hiki kata wo wasurete simatte, zenzen hikena ku narimasita
+
+2.
+A: furansu go wo hana saremasu ka
+B: hai, hanasimasu. yoku shigoto de tsukaimasu
+A: watashi ha wakai goro, furansu go ga hanasemasita ga, mou wasurete simatte, hotondo hanase naku narimasita
+
+3.
+A: kuruma wo unten saremasu ka
+B: hai, simasu. yoku doraibu simasu
+A: watashi ha menkyoshou wo motte imasu ga, nagai aida unten site nai node, ima ha zenzen unten deki naku narimasita.
+
+4.
+A: donna undou wo saremasu ka
+B: hasittari, yoga wo sitari simasu. oyogu koto mo suki desu
+A: watashi ha kodomo no koro, nagai kyori wo oyogemasita ga, ima ha mou oyogenaku narimasita
+
+
+/*
+Tema :
+
+namae, -> futsu ni jikoshoukai
+shigoto, -> shigoto ha nani wo nasatte imasuka
+shumi, -> shumi ha nani wo saremasuka
+yasumi no hi -> yasumi no hi nani wo saremasu ka
+*/
+
+/*
+kyou, watashi ha mirai san to hiru gohan ni ikimasita. mirai san ha kyou nen 6ka getsu gurai, kaigai saremasita. mirai san ha parisu ni ikimasita. furansu go wo hanase naku naru tame ni parisu ni ikimasita. demo furansu go ha ima made mada hana senaku narimasen. mirai san kara no hanasi wo kikarete, parisu ha sugoku kirei-na machi to omoimasu. 
+*/
+
+
+
+
+
+
+

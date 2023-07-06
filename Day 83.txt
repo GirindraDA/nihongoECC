@@ -1,0 +1,119 @@
+Vocabulary :
+
+gasorin = bensin
+tsuzuki = the next
+pureyaa = player
+daininki = sangat populer
+fasshshion = fashion
+mitame = appearence
+menkyoushou = sim
+sukuriin = screen
+kazu = a number
+monogoto = things
+kachikan = a value system
+jidai = an era
+rimotowakku = remote work
+komunikesyion = komunikasi
+sekaijyuu = seluruh dunia
+
+heru = turun
+motsu = memegang
+mochiaruku = pergi membawa
+hiromaru =
+ki ni suru = 
+niru = mirip
+te ni ireru =
+
+kakutoku
+kakutoku suru = 
+kanketsu
+kanketsu suru = a conclusion, to conclude
+neagari
+neagari suru = naik
+ryuukou
+ryuukou suru =
+eikyou
+eikyou suru = an influence
+
+tegaru = simple
+yahari = as expected
+~ en dai/ 100en dai = 
+
+
+Reading 1:
+
+1. nihon no fashion, kuruma, eiga ni tsuite
+2. nihon no wakai hito no kangaekata
+
+//nihon no fasshion
+1. saikin ryuukou ya mitame wo ki ni site, mawari no hito to nita fuku wo kiru hito ga ooku natte kimasita.
+
+//kuruma
+1. kuruma wo motanai wakai hito ga fuete kite iru sou desu
+2. kuruma ha benri na node, fuete iku
+
+//eiga
+1. eigakan de eiga wo miru hito ga herimasu
+2. haisin sabizu ha totemo benri na node, korekaramo, eigakan ni iku hito no kazu ha hette iku kamo
+
+
+//(V-te + KIMASITA)
+
++ mawari no hito to nita fuku wo kiru hito ga ooku naTTE KIMASITA
+
+
+Conversation 1:
+
+1.
+A: saikin, ryuukou ya mita me wo ki ni site, mawari no hito to nita fuku wo kiru hito ga ooku natte kimasita
+
+3.
+A: rimottowokku no eikyou de shain dousi no komunikeshion ga hette kimasita.
+
+3.
+A: purasicikku gomi wo herasu tame, kami de tsukurareta sutoroo 
+wo saiyou suru mise ga fuete kimasita
+
+4.
+A: kyashuu resuu de kaimono ga dekiru you ni natte, genkin wo mochiaruku hito ga hete kimasita
+
+
+//(V-te + IKIMASU)
+
++ jibun no kuruma wo motsu hito ga fueTE IKIMASU.
+
+
+Conversation 2:
+
+1.
+A: kuruma ha benri na node, tegaru ni moteru you ni nattara, jibun no kuruma wo motsu hito ga fuete iku to omoimasu.
+
+3.
+A: ondanka no eikyou de kion ga, agatte, sekaijyuu no hyouga nado ga korekara mo hette iku to omoimasu.
+
+3.
+A: AI ka ga susunde, hito ga okonau shigoto ga dondon sukunaku natte iku to omoimasu.
+
+4.
+A: korekara dondon miiru kitto no takuhai sabisu ga hiromatte, ryouri wo suru no ga raku ni natte iku to omoimasu.
+
+
+/*
+kawatte kita mono : ~ 
+
+haikei : ~ 
+
+kawatte iku to omou mono : gasorin no nedan ha korekara agate iku to omoimasu.
+
+ryuu : maitoshi gasorin no nedan ha agaru kara.
+*/
+
+
+
+
+
+
+
+
+
+
