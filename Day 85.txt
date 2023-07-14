@@ -1,0 +1,141 @@
+Vocabulary :
+
+shikijyou = ceremonial hall
+doresu = dress
+moderu = model
+se = tinggi
+yuujin = teman dekat
+kanji = a feeling
+ishi = stone
+
+ikasu = to put to good use
+
+katsuyaku
+katsuyaku suru = great efforts
+oshaberi
+oshaberi suru = ngobrol
+
+kapatsu = lively, active
+marude = just like
+
+ocha wo suru = ngeteh
+naka ga ii = close, intimate
+katei wo kizuku = to make a home, to raise a family
+
+
+//(SOU + Verbs)
+
+A: oiwai no purezento ha shokki ga ii to omoimasu
+B: watashi mo SOU omoimasu
+
+//(KOU + Verbs)
+
++ koko ha KOU kaite kudasai. [osiawase ni]
+
+
+//(AA + Verbs)
+
+A: watashi ha 2ji ni shikijyou e iku yo
+B: jyaaa, watashi tachi mo 2ji ni sinai
+C: sou dane, buchou mo AA itte iru kara. 
+/*AA === 2ji ni shikijyou e iku*/
+
+
+//PRESENT MONO
+
+1. hana taba
+2. wain gurasu
+3. kappu
+4. nabe
+5. taoru
+
+
+Listening 1:
+
+1. cie san
+2. chuugaku no tomodachi, koukou no tomodachi
+
+
+1. se ga takai, moderu mitai, bare boru bu de katsuyaku sita
+
+2. ninki mono, tomodachi to naka ga yokute itsumo tomodachi to sanoshiku oshaberi sita.  
+
+//(N + MITAI DESU)
+
++ marude fashionshi no moderu MITAI DESU
+
+//(N + tTE)
+
++ chie tTE, chuugakusei no toki kara se ga takaku te, moderu MITAI da yo ne
+
+
+Conversation 1:
+
+1.
+A: kyou no chie tte, hontou ni kirei da ne
+B: un, chuugakusei no toki kara se ga taka kute, moderu mitai da yo ne
+
+2.
+A: datto san tte, uta ga jyouzu da ne
+B: un, koe mo yoku te, kashu mitai da yo ne
+
+3.
+A: niina no heya tte, hon ga takusan aru ne
+B: un, iro iro na hon ga atte, toshoukan mitai da yo ne
+
+4.
+A: kono senbei tte, totemo katai ne
+B: un, kataku te ishi mitai da yo ne
+
+
+//(V te + IMASITA)
+
++ bareeboruu bu de itsumo katsuyaku siTE IMASITA
+
+
+Conversation 2:
+
+1.
+A: chie tte, koukou demo tomodachi ga ookatta desu ka
+B: hai, kurasu no ninki mono desita. itsumo tomodachi to tanoshiku oshaberi site imasita
+
+2.
+A: kyuu san tte, koukou demo majime desita ka
+B: hai, jyuugyou chuu ha sensei no hanasi wo sikkari kiku gakusei desita. yoku tomodachi ni shuugaku wo oshiete imasita
+
+3.
+A: herena san tte, koukou demo yoku hon wo yonde imasita ka
+B: hai. yoku toushokan ni imasita. iro iro na hon wo yonde imasita
+
+4.
+A: taguchi san tte, koukou demo kappatsu desita ka
+B: hai, ITSUMO KATSUDOU TEKI DESITA YOKU SUPOTSU WO SITE IMASITA YO
+
+
+/*
+donna hito desita ka?
+- ninki mono
+- majime na hito
+
+itsumo donna koto wo site imasita ka?
+- undo suru
+- benkyou suru
+
+donna yousu desita ka?
+- kira kira
+- katsuyoku
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
