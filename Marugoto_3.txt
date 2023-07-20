@@ -1,0 +1,70 @@
+Listening 1:
+
+1. 3 nen mae kara benkyou simasita
+2. nihon no anime wo mita koto
+3. nikkei kigyou de yushutsu kankei no shigoto 
+4. nihonjin no tomodachi wo takusan tsukuritai
+5. tabe aruki, taberu, oshaberi mo suki desu
+
+
+jibun no namae => 
+//hajimemasite, mai to mousimasu
+
+kore made no keiken => 
+//
+
+ima no koto => 
+//nikkei kigyou de yushutsu kankei no shigoto wo site imasu
+
+kibou ya houfu => 
+// nihon jin no sutaffu to, iroirona koto ga hanaseru you ni naritai to omotte imasu
+// kono sakuru ni sanka sita no ha, nihon jin no tomodachi wo takusan tsukuritai to omotta kara desu
+
+jiko PR (sumi. suki na koto)
+// shumi ha tabearuki desu. oshaberi mo dai suki na node, dondon hanasi kakete kudasai
+
+
+Listening 2:
+
+1. sanka suru no
+2. hajimeta no
+3. kikkake
+4. okage
+5. site imasu
+6. you ni naritai
+7. tsukuritai to omotta
+8. shumi
+9. daisuki
+
+/*
+eeee, kono sakuru ni sanka sita no ha, nihon jin no tomodachi wo takusan tsukuritai to omotta desu.
+
+aaaa, shumi ha tabe aruki desu. ryouri ha taberu no mo tsukuru no mo daisuki desu
+
+oshaberi mo daisuki na node, dondon hanasi kakete kudasai
+
+douzo yoroshiku onegai simasu
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
