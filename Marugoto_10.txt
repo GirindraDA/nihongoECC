@@ -1,0 +1,64 @@
+//V-sa se + kudasai
+zehi, SANKA SASETE KUDASAI
+
+
+Sieki kei: 
+
+grup 1 = V-nai + seru
+- utau => utawaSERU
+- kau => kawaSERU
+- nomu => nomaSERU
+- toru => toRASERU
+
+- tetsudau => tetsudaWASERU
+
+grup 2 = V-ru + saseru
+- taberu => tabeSASERU
+
+grup 3 = Special grup
+- kuru => KOSASERU
+- suru => SASERU
+
+
+1. kekkon suru ndesune. oiwaWASETE KUDASAI
+2. wakaranai node, sirabeSASETE KUDASAI
+3. isoide kita node, kyuukei SASETE KUDASAI
+4. kawaii inu desune. shasin wo toRASASETE KUDASAI
+
+
+Sieki ukemi kei:
+
+grup 1: 
+nomu => noMA SARE RU
+utau => utaWA SARE RU
+hanasu => hanSA SERARE RU
+
+grup 2:
+taberu => tabe SA SERARE RU
+yameru => yame SA SERARE RU
+
+grup 3:
+suru => SA SERARE RU
+kuru => KO SASERARE RU
+
+
+/*
+A: raishuu no kayoubi ni ikimasenka?
+
+B: aaaa, raishuu no kayoubi desu ne .... eeto, kayoubi ha chotto ...
+
+A: AAA, Nanika yoji ga arimasuka?
+
+B: Hai, arimasu. kayoubi ha kaimono no hi desu. nan ni ga ikimasuka?
+
+A: san(3) nin ga imasu yo. C-san to D-san to E-san ga ikimasu. B-san sekkaku minna to aeru kara ikou yo...
+
+B: sou nan desu ne. jyaa, kaimono no hi ha kawarimasu. yoshhh raishuu  karaoke ni ikimashou. 
+*/
+
+
+
+
+
+
+
